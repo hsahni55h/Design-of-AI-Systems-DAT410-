@@ -1,0 +1,2689 @@
+City,Day,Date,Time,Weather,Temperature
+Stockholm,Saturday,04-03-2023,00:00,Rainy,7
+Stockholm,Saturday,04-03-2023,00:30,Partly Cloudy,21
+Stockholm,Saturday,04-03-2023,01:00,Thunderstorms,14
+Stockholm,Saturday,04-03-2023,01:30,Cloudy,21
+Stockholm,Saturday,04-03-2023,02:00,Partly Cloudy,20
+Stockholm,Saturday,04-03-2023,02:30,Sunny,18
+Stockholm,Saturday,04-03-2023,03:00,Cloudy,15
+Stockholm,Saturday,04-03-2023,03:30,Rainy,8
+Stockholm,Saturday,04-03-2023,04:00,Partly Cloudy,21
+Stockholm,Saturday,04-03-2023,04:30,Cloudy,11
+Stockholm,Saturday,04-03-2023,05:00,Rainy,8
+Stockholm,Saturday,04-03-2023,05:30,Thunderstorms,12
+Stockholm,Saturday,04-03-2023,06:00,Rainy,13
+Stockholm,Saturday,04-03-2023,06:30,Cloudy,22
+Stockholm,Saturday,04-03-2023,07:00,Partly Cloudy,19
+Stockholm,Saturday,04-03-2023,07:30,Partly Cloudy,26
+Stockholm,Saturday,04-03-2023,08:00,Partly Cloudy,12
+Stockholm,Saturday,04-03-2023,08:30,Cloudy,14
+Stockholm,Saturday,04-03-2023,09:00,Cloudy,9
+Stockholm,Saturday,04-03-2023,09:30,Partly Cloudy,25
+Stockholm,Saturday,04-03-2023,10:00,Rainy,12
+Stockholm,Saturday,04-03-2023,10:30,Partly Cloudy,27
+Stockholm,Saturday,04-03-2023,11:00,Sunny,22
+Stockholm,Saturday,04-03-2023,11:30,Rainy,12
+Stockholm,Saturday,04-03-2023,12:00,Partly Cloudy,23
+Stockholm,Saturday,04-03-2023,12:30,Cloudy,8
+Stockholm,Saturday,04-03-2023,13:00,Thunderstorms,11
+Stockholm,Saturday,04-03-2023,13:30,Sunny,19
+Stockholm,Saturday,04-03-2023,14:00,Rainy,6
+Stockholm,Saturday,04-03-2023,14:30,Partly Cloudy,23
+Stockholm,Saturday,04-03-2023,15:00,Thunderstorms,18
+Stockholm,Saturday,04-03-2023,15:30,Thunderstorms,8
+Stockholm,Saturday,04-03-2023,16:00,Thunderstorms,12
+Stockholm,Saturday,04-03-2023,16:30,Sunny,21
+Stockholm,Saturday,04-03-2023,17:00,Rainy,10
+Stockholm,Saturday,04-03-2023,17:30,Thunderstorms,13
+Stockholm,Saturday,04-03-2023,18:00,Sunny,26
+Stockholm,Saturday,04-03-2023,18:30,Partly Cloudy,23
+Stockholm,Saturday,04-03-2023,19:00,Sunny,24
+Stockholm,Saturday,04-03-2023,19:30,Sunny,19
+Stockholm,Saturday,04-03-2023,20:00,Partly Cloudy,20
+Stockholm,Saturday,04-03-2023,20:30,Sunny,25
+Stockholm,Saturday,04-03-2023,21:00,Thunderstorms,7
+Stockholm,Saturday,04-03-2023,21:30,Cloudy,12
+Stockholm,Saturday,04-03-2023,22:00,Thunderstorms,11
+Stockholm,Saturday,04-03-2023,22:30,Partly Cloudy,14
+Stockholm,Saturday,04-03-2023,23:00,Thunderstorms,13
+Stockholm,Saturday,04-03-2023,23:30,Cloudy,14
+Stockholm,Sunday,05-03-2023,00:00,Rainy,3
+Stockholm,Sunday,05-03-2023,00:30,Thunderstorms,11
+Stockholm,Sunday,05-03-2023,01:00,Partly Cloudy,20
+Stockholm,Sunday,05-03-2023,01:30,Thunderstorms,18
+Stockholm,Sunday,05-03-2023,02:00,Partly Cloudy,24
+Stockholm,Sunday,05-03-2023,02:30,Sunny,28
+Stockholm,Sunday,05-03-2023,03:00,Rainy,12
+Stockholm,Sunday,05-03-2023,03:30,Thunderstorms,9
+Stockholm,Sunday,05-03-2023,04:00,Cloudy,11
+Stockholm,Sunday,05-03-2023,04:30,Thunderstorms,18
+Stockholm,Sunday,05-03-2023,05:00,Sunny,24
+Stockholm,Sunday,05-03-2023,05:30,Cloudy,15
+Stockholm,Sunday,05-03-2023,06:00,Partly Cloudy,18
+Stockholm,Sunday,05-03-2023,06:30,Sunny,33
+Stockholm,Sunday,05-03-2023,07:00,Rainy,7
+Stockholm,Sunday,05-03-2023,07:30,Rainy,8
+Stockholm,Sunday,05-03-2023,08:00,Partly Cloudy,17
+Stockholm,Sunday,05-03-2023,08:30,Sunny,26
+Stockholm,Sunday,05-03-2023,09:00,Sunny,25
+Stockholm,Sunday,05-03-2023,09:30,Rainy,17
+Stockholm,Sunday,05-03-2023,10:00,Sunny,24
+Stockholm,Sunday,05-03-2023,10:30,Partly Cloudy,15
+Stockholm,Sunday,05-03-2023,11:00,Rainy,12
+Stockholm,Sunday,05-03-2023,11:30,Partly Cloudy,17
+Stockholm,Sunday,05-03-2023,12:00,Cloudy,22
+Stockholm,Sunday,05-03-2023,12:30,Thunderstorms,16
+Stockholm,Sunday,05-03-2023,13:00,Partly Cloudy,25
+Stockholm,Sunday,05-03-2023,13:30,Partly Cloudy,20
+Stockholm,Sunday,05-03-2023,14:00,Rainy,10
+Stockholm,Sunday,05-03-2023,14:30,Sunny,23
+Stockholm,Sunday,05-03-2023,15:00,Sunny,20
+Stockholm,Sunday,05-03-2023,15:30,Cloudy,15
+Stockholm,Sunday,05-03-2023,16:00,Cloudy,17
+Stockholm,Sunday,05-03-2023,16:30,Cloudy,12
+Stockholm,Sunday,05-03-2023,17:00,Partly Cloudy,26
+Stockholm,Sunday,05-03-2023,17:30,Partly Cloudy,19
+Stockholm,Sunday,05-03-2023,18:00,Thunderstorms,10
+Stockholm,Sunday,05-03-2023,18:30,Sunny,21
+Stockholm,Sunday,05-03-2023,19:00,Cloudy,11
+Stockholm,Sunday,05-03-2023,19:30,Cloudy,22
+Stockholm,Sunday,05-03-2023,20:00,Cloudy,11
+Stockholm,Sunday,05-03-2023,20:30,Rainy,15
+Stockholm,Sunday,05-03-2023,21:00,Rainy,7
+Stockholm,Sunday,05-03-2023,21:30,Thunderstorms,12
+Stockholm,Sunday,05-03-2023,22:00,Partly Cloudy,16
+Stockholm,Sunday,05-03-2023,22:30,Partly Cloudy,21
+Stockholm,Sunday,05-03-2023,23:00,Rainy,13
+Stockholm,Sunday,05-03-2023,23:30,Partly Cloudy,19
+Stockholm,Monday,06-03-2023,00:00,Rainy,11
+Stockholm,Monday,06-03-2023,00:30,Cloudy,14
+Stockholm,Monday,06-03-2023,01:00,Thunderstorms,7
+Stockholm,Monday,06-03-2023,01:30,Cloudy,16
+Stockholm,Monday,06-03-2023,02:00,Partly Cloudy,22
+Stockholm,Monday,06-03-2023,02:30,Partly Cloudy,18
+Stockholm,Monday,06-03-2023,03:00,Partly Cloudy,15
+Stockholm,Monday,06-03-2023,03:30,Thunderstorms,5
+Stockholm,Monday,06-03-2023,04:00,Thunderstorms,13
+Stockholm,Monday,06-03-2023,04:30,Partly Cloudy,21
+Stockholm,Monday,06-03-2023,05:00,Partly Cloudy,14
+Stockholm,Monday,06-03-2023,05:30,Sunny,19
+Stockholm,Monday,06-03-2023,06:00,Cloudy,16
+Stockholm,Monday,06-03-2023,06:30,Cloudy,14
+Stockholm,Monday,06-03-2023,07:00,Cloudy,12
+Stockholm,Monday,06-03-2023,07:30,Cloudy,16
+Stockholm,Monday,06-03-2023,08:00,Thunderstorms,12
+Stockholm,Monday,06-03-2023,08:30,Sunny,19
+Stockholm,Monday,06-03-2023,09:00,Sunny,21
+Stockholm,Monday,06-03-2023,09:30,Cloudy,16
+Stockholm,Monday,06-03-2023,10:00,Partly Cloudy,22
+Stockholm,Monday,06-03-2023,10:30,Cloudy,9
+Stockholm,Monday,06-03-2023,11:00,Partly Cloudy,19
+Stockholm,Monday,06-03-2023,11:30,Rainy,8
+Stockholm,Monday,06-03-2023,12:00,Cloudy,14
+Stockholm,Monday,06-03-2023,12:30,Rainy,9
+Stockholm,Monday,06-03-2023,13:00,Sunny,31
+Stockholm,Monday,06-03-2023,13:30,Rainy,11
+Stockholm,Monday,06-03-2023,14:00,Partly Cloudy,19
+Stockholm,Monday,06-03-2023,14:30,Cloudy,14
+Stockholm,Monday,06-03-2023,15:00,Cloudy,23
+Stockholm,Monday,06-03-2023,15:30,Sunny,27
+Stockholm,Monday,06-03-2023,16:00,Cloudy,13
+Stockholm,Monday,06-03-2023,16:30,Rainy,9
+Stockholm,Monday,06-03-2023,17:00,Thunderstorms,20
+Stockholm,Monday,06-03-2023,17:30,Sunny,26
+Stockholm,Monday,06-03-2023,18:00,Thunderstorms,8
+Stockholm,Monday,06-03-2023,18:30,Cloudy,18
+Stockholm,Monday,06-03-2023,19:00,Partly Cloudy,17
+Stockholm,Monday,06-03-2023,19:30,Thunderstorms,12
+Stockholm,Monday,06-03-2023,20:00,Sunny,24
+Stockholm,Monday,06-03-2023,20:30,Sunny,26
+Stockholm,Monday,06-03-2023,21:00,Sunny,18
+Stockholm,Monday,06-03-2023,21:30,Rainy,3
+Stockholm,Monday,06-03-2023,22:00,Rainy,12
+Stockholm,Monday,06-03-2023,22:30,Partly Cloudy,21
+Stockholm,Monday,06-03-2023,23:00,Sunny,27
+Stockholm,Monday,06-03-2023,23:30,Partly Cloudy,16
+Stockholm,Tuesday,07-03-2023,00:00,Rainy,8
+Stockholm,Tuesday,07-03-2023,00:30,Partly Cloudy,21
+Stockholm,Tuesday,07-03-2023,01:00,Rainy,5
+Stockholm,Tuesday,07-03-2023,01:30,Thunderstorms,7
+Stockholm,Tuesday,07-03-2023,02:00,Thunderstorms,12
+Stockholm,Tuesday,07-03-2023,02:30,Thunderstorms,11
+Stockholm,Tuesday,07-03-2023,03:00,Sunny,23
+Stockholm,Tuesday,07-03-2023,03:30,Sunny,17
+Stockholm,Tuesday,07-03-2023,04:00,Cloudy,17
+Stockholm,Tuesday,07-03-2023,04:30,Cloudy,22
+Stockholm,Tuesday,07-03-2023,05:00,Partly Cloudy,24
+Stockholm,Tuesday,07-03-2023,05:30,Cloudy,17
+Stockholm,Tuesday,07-03-2023,06:00,Rainy,14
+Stockholm,Tuesday,07-03-2023,06:30,Cloudy,14
+Stockholm,Tuesday,07-03-2023,07:00,Sunny,30
+Stockholm,Tuesday,07-03-2023,07:30,Partly Cloudy,19
+Stockholm,Tuesday,07-03-2023,08:00,Cloudy,12
+Stockholm,Tuesday,07-03-2023,08:30,Thunderstorms,16
+Stockholm,Tuesday,07-03-2023,09:00,Thunderstorms,6
+Stockholm,Tuesday,07-03-2023,09:30,Rainy,13
+Stockholm,Tuesday,07-03-2023,10:00,Cloudy,10
+Stockholm,Tuesday,07-03-2023,10:30,Partly Cloudy,21
+Stockholm,Tuesday,07-03-2023,11:00,Rainy,14
+Stockholm,Tuesday,07-03-2023,11:30,Cloudy,22
+Stockholm,Tuesday,07-03-2023,12:00,Thunderstorms,17
+Stockholm,Tuesday,07-03-2023,12:30,Thunderstorms,9
+Stockholm,Tuesday,07-03-2023,13:00,Thunderstorms,9
+Stockholm,Tuesday,07-03-2023,13:30,Partly Cloudy,25
+Stockholm,Tuesday,07-03-2023,14:00,Cloudy,17
+Stockholm,Tuesday,07-03-2023,14:30,Rainy,7
+Stockholm,Tuesday,07-03-2023,15:00,Thunderstorms,14
+Stockholm,Tuesday,07-03-2023,15:30,Thunderstorms,15
+Stockholm,Tuesday,07-03-2023,16:00,Cloudy,12
+Stockholm,Tuesday,07-03-2023,16:30,Partly Cloudy,19
+Stockholm,Tuesday,07-03-2023,17:00,Thunderstorms,10
+Stockholm,Tuesday,07-03-2023,17:30,Rainy,10
+Stockholm,Tuesday,07-03-2023,18:00,Sunny,18
+Stockholm,Tuesday,07-03-2023,18:30,Rainy,13
+Stockholm,Tuesday,07-03-2023,19:00,Cloudy,16
+Stockholm,Tuesday,07-03-2023,19:30,Partly Cloudy,13
+Stockholm,Tuesday,07-03-2023,20:00,Partly Cloudy,24
+Stockholm,Tuesday,07-03-2023,20:30,Sunny,26
+Stockholm,Tuesday,07-03-2023,21:00,Thunderstorms,11
+Stockholm,Tuesday,07-03-2023,21:30,Thunderstorms,17
+Stockholm,Tuesday,07-03-2023,22:00,Sunny,26
+Stockholm,Tuesday,07-03-2023,22:30,Partly Cloudy,21
+Stockholm,Tuesday,07-03-2023,23:00,Sunny,18
+Stockholm,Tuesday,07-03-2023,23:30,Cloudy,10
+Stockholm,Wednesday,08-03-2023,00:00,Cloudy,18
+Stockholm,Wednesday,08-03-2023,00:30,Rainy,11
+Stockholm,Wednesday,08-03-2023,01:00,Sunny,16
+Stockholm,Wednesday,08-03-2023,01:30,Partly Cloudy,22
+Stockholm,Wednesday,08-03-2023,02:00,Rainy,12
+Stockholm,Wednesday,08-03-2023,02:30,Thunderstorms,16
+Stockholm,Wednesday,08-03-2023,03:00,Partly Cloudy,16
+Stockholm,Wednesday,08-03-2023,03:30,Thunderstorms,14
+Stockholm,Wednesday,08-03-2023,04:00,Partly Cloudy,19
+Stockholm,Wednesday,08-03-2023,04:30,Cloudy,12
+Stockholm,Wednesday,08-03-2023,05:00,Rainy,8
+Stockholm,Wednesday,08-03-2023,05:30,Partly Cloudy,24
+Stockholm,Wednesday,08-03-2023,06:00,Partly Cloudy,21
+Stockholm,Wednesday,08-03-2023,06:30,Thunderstorms,8
+Stockholm,Wednesday,08-03-2023,07:00,Cloudy,14
+Stockholm,Wednesday,08-03-2023,07:30,Sunny,24
+Stockholm,Wednesday,08-03-2023,08:00,Partly Cloudy,17
+Stockholm,Wednesday,08-03-2023,08:30,Rainy,11
+Stockholm,Wednesday,08-03-2023,09:00,Sunny,29
+Stockholm,Wednesday,08-03-2023,09:30,Rainy,9
+Stockholm,Wednesday,08-03-2023,10:00,Cloudy,15
+Stockholm,Wednesday,08-03-2023,10:30,Sunny,23
+Stockholm,Wednesday,08-03-2023,11:00,Sunny,17
+Stockholm,Wednesday,08-03-2023,11:30,Cloudy,15
+Stockholm,Wednesday,08-03-2023,12:00,Partly Cloudy,23
+Stockholm,Wednesday,08-03-2023,12:30,Partly Cloudy,19
+Stockholm,Wednesday,08-03-2023,13:00,Thunderstorms,18
+Stockholm,Wednesday,08-03-2023,13:30,Cloudy,15
+Stockholm,Wednesday,08-03-2023,14:00,Thunderstorms,9
+Stockholm,Wednesday,08-03-2023,14:30,Sunny,21
+Stockholm,Wednesday,08-03-2023,15:00,Sunny,29
+Stockholm,Wednesday,08-03-2023,15:30,Sunny,28
+Stockholm,Wednesday,08-03-2023,16:00,Sunny,27
+Stockholm,Wednesday,08-03-2023,16:30,Partly Cloudy,22
+Stockholm,Wednesday,08-03-2023,17:00,Sunny,20
+Stockholm,Wednesday,08-03-2023,17:30,Sunny,22
+Stockholm,Wednesday,08-03-2023,18:00,Rainy,13
+Stockholm,Wednesday,08-03-2023,18:30,Partly Cloudy,23
+Stockholm,Wednesday,08-03-2023,19:00,Rainy,12
+Stockholm,Wednesday,08-03-2023,19:30,Partly Cloudy,21
+Stockholm,Wednesday,08-03-2023,20:00,Cloudy,15
+Stockholm,Wednesday,08-03-2023,20:30,Thunderstorms,16
+Stockholm,Wednesday,08-03-2023,21:00,Partly Cloudy,23
+Stockholm,Wednesday,08-03-2023,21:30,Rainy,3
+Stockholm,Wednesday,08-03-2023,22:00,Cloudy,12
+Stockholm,Wednesday,08-03-2023,22:30,Cloudy,13
+Stockholm,Wednesday,08-03-2023,23:00,Partly Cloudy,24
+Stockholm,Wednesday,08-03-2023,23:30,Rainy,13
+Stockholm,Thursday,09-03-2023,00:00,Partly Cloudy,25
+Stockholm,Thursday,09-03-2023,00:30,Partly Cloudy,19
+Stockholm,Thursday,09-03-2023,01:00,Rainy,10
+Stockholm,Thursday,09-03-2023,01:30,Rainy,16
+Stockholm,Thursday,09-03-2023,02:00,Partly Cloudy,21
+Stockholm,Thursday,09-03-2023,02:30,Cloudy,10
+Stockholm,Thursday,09-03-2023,03:00,Partly Cloudy,22
+Stockholm,Thursday,09-03-2023,03:30,Sunny,15
+Stockholm,Thursday,09-03-2023,04:00,Sunny,26
+Stockholm,Thursday,09-03-2023,04:30,Sunny,26
+Stockholm,Thursday,09-03-2023,05:00,Cloudy,9
+Stockholm,Thursday,09-03-2023,05:30,Sunny,27
+Stockholm,Thursday,09-03-2023,06:00,Cloudy,11
+Stockholm,Thursday,09-03-2023,06:30,Cloudy,19
+Stockholm,Thursday,09-03-2023,07:00,Partly Cloudy,23
+Stockholm,Thursday,09-03-2023,07:30,Cloudy,13
+Stockholm,Thursday,09-03-2023,08:00,Rainy,8
+Stockholm,Thursday,09-03-2023,08:30,Thunderstorms,19
+Stockholm,Thursday,09-03-2023,09:00,Partly Cloudy,24
+Stockholm,Thursday,09-03-2023,09:30,Sunny,26
+Stockholm,Thursday,09-03-2023,10:00,Cloudy,16
+Stockholm,Thursday,09-03-2023,10:30,Partly Cloudy,19
+Stockholm,Thursday,09-03-2023,11:00,Sunny,22
+Stockholm,Thursday,09-03-2023,11:30,Rainy,14
+Stockholm,Thursday,09-03-2023,12:00,Sunny,27
+Stockholm,Thursday,09-03-2023,12:30,Cloudy,14
+Stockholm,Thursday,09-03-2023,13:00,Cloudy,13
+Stockholm,Thursday,09-03-2023,13:30,Cloudy,17
+Stockholm,Thursday,09-03-2023,14:00,Rainy,17
+Stockholm,Thursday,09-03-2023,14:30,Partly Cloudy,14
+Stockholm,Thursday,09-03-2023,15:00,Partly Cloudy,22
+Stockholm,Thursday,09-03-2023,15:30,Rainy,14
+Stockholm,Thursday,09-03-2023,16:00,Cloudy,10
+Stockholm,Thursday,09-03-2023,16:30,Rainy,7
+Stockholm,Thursday,09-03-2023,17:00,Partly Cloudy,17
+Stockholm,Thursday,09-03-2023,17:30,Partly Cloudy,21
+Stockholm,Thursday,09-03-2023,18:00,Sunny,28
+Stockholm,Thursday,09-03-2023,18:30,Partly Cloudy,15
+Stockholm,Thursday,09-03-2023,19:00,Rainy,11
+Stockholm,Thursday,09-03-2023,19:30,Rainy,13
+Stockholm,Thursday,09-03-2023,20:00,Partly Cloudy,14
+Stockholm,Thursday,09-03-2023,20:30,Rainy,13
+Stockholm,Thursday,09-03-2023,21:00,Cloudy,15
+Stockholm,Thursday,09-03-2023,21:30,Cloudy,12
+Stockholm,Thursday,09-03-2023,22:00,Sunny,18
+Stockholm,Thursday,09-03-2023,22:30,Rainy,12
+Stockholm,Thursday,09-03-2023,23:00,Cloudy,13
+Stockholm,Thursday,09-03-2023,23:30,Cloudy,15
+Stockholm,Friday,10-03-2023,00:00,Partly Cloudy,23
+Stockholm,Friday,10-03-2023,00:30,Rainy,15
+Stockholm,Friday,10-03-2023,01:00,Sunny,24
+Stockholm,Friday,10-03-2023,01:30,Rainy,5
+Stockholm,Friday,10-03-2023,02:00,Thunderstorms,12
+Stockholm,Friday,10-03-2023,02:30,Thunderstorms,10
+Stockholm,Friday,10-03-2023,03:00,Rainy,5
+Stockholm,Friday,10-03-2023,03:30,Thunderstorms,6
+Stockholm,Friday,10-03-2023,04:00,Partly Cloudy,15
+Stockholm,Friday,10-03-2023,04:30,Thunderstorms,9
+Stockholm,Friday,10-03-2023,05:00,Sunny,26
+Stockholm,Friday,10-03-2023,05:30,Partly Cloudy,20
+Stockholm,Friday,10-03-2023,06:00,Sunny,25
+Stockholm,Friday,10-03-2023,06:30,Thunderstorms,10
+Stockholm,Friday,10-03-2023,07:00,Thunderstorms,16
+Stockholm,Friday,10-03-2023,07:30,Sunny,29
+Stockholm,Friday,10-03-2023,08:00,Sunny,21
+Stockholm,Friday,10-03-2023,08:30,Partly Cloudy,18
+Stockholm,Friday,10-03-2023,09:00,Cloudy,13
+Stockholm,Friday,10-03-2023,09:30,Partly Cloudy,21
+Stockholm,Friday,10-03-2023,10:00,Partly Cloudy,25
+Stockholm,Friday,10-03-2023,10:30,Rainy,7
+Stockholm,Friday,10-03-2023,11:00,Rainy,5
+Stockholm,Friday,10-03-2023,11:30,Rainy,13
+Stockholm,Friday,10-03-2023,12:00,Thunderstorms,15
+Stockholm,Friday,10-03-2023,12:30,Partly Cloudy,26
+Stockholm,Friday,10-03-2023,13:00,Partly Cloudy,20
+Stockholm,Friday,10-03-2023,13:30,Sunny,27
+Stockholm,Friday,10-03-2023,14:00,Sunny,21
+Stockholm,Friday,10-03-2023,14:30,Rainy,2
+Stockholm,Friday,10-03-2023,15:00,Rainy,8
+Stockholm,Friday,10-03-2023,15:30,Rainy,4
+Stockholm,Friday,10-03-2023,16:00,Sunny,28
+Stockholm,Friday,10-03-2023,16:30,Rainy,7
+Stockholm,Friday,10-03-2023,17:00,Sunny,30
+Stockholm,Friday,10-03-2023,17:30,Partly Cloudy,18
+Stockholm,Friday,10-03-2023,18:00,Thunderstorms,11
+Stockholm,Friday,10-03-2023,18:30,Thunderstorms,15
+Stockholm,Friday,10-03-2023,19:00,Cloudy,18
+Stockholm,Friday,10-03-2023,19:30,Rainy,13
+Stockholm,Friday,10-03-2023,20:00,Sunny,25
+Stockholm,Friday,10-03-2023,20:30,Sunny,21
+Stockholm,Friday,10-03-2023,21:00,Rainy,12
+Stockholm,Friday,10-03-2023,21:30,Rainy,15
+Stockholm,Friday,10-03-2023,22:00,Rainy,14
+Stockholm,Friday,10-03-2023,22:30,Sunny,18
+Stockholm,Friday,10-03-2023,23:00,Cloudy,21
+Stockholm,Friday,10-03-2023,23:30,Partly Cloudy,24
+Gothenburg,Saturday,04-03-2023,00:00,Sunny,23
+Gothenburg,Saturday,04-03-2023,00:30,Thunderstorms,17
+Gothenburg,Saturday,04-03-2023,01:00,Cloudy,17
+Gothenburg,Saturday,04-03-2023,01:30,Partly Cloudy,18
+Gothenburg,Saturday,04-03-2023,02:00,Rainy,7
+Gothenburg,Saturday,04-03-2023,02:30,Rainy,18
+Gothenburg,Saturday,04-03-2023,03:00,Partly Cloudy,19
+Gothenburg,Saturday,04-03-2023,03:30,Cloudy,17
+Gothenburg,Saturday,04-03-2023,04:00,Partly Cloudy,22
+Gothenburg,Saturday,04-03-2023,04:30,Thunderstorms,19
+Gothenburg,Saturday,04-03-2023,05:00,Partly Cloudy,13
+Gothenburg,Saturday,04-03-2023,05:30,Sunny,22
+Gothenburg,Saturday,04-03-2023,06:00,Cloudy,12
+Gothenburg,Saturday,04-03-2023,06:30,Sunny,28
+Gothenburg,Saturday,04-03-2023,07:00,Rainy,9
+Gothenburg,Saturday,04-03-2023,07:30,Thunderstorms,5
+Gothenburg,Saturday,04-03-2023,08:00,Cloudy,11
+Gothenburg,Saturday,04-03-2023,08:30,Rainy,15
+Gothenburg,Saturday,04-03-2023,09:00,Thunderstorms,17
+Gothenburg,Saturday,04-03-2023,09:30,Partly Cloudy,18
+Gothenburg,Saturday,04-03-2023,10:00,Cloudy,21
+Gothenburg,Saturday,04-03-2023,10:30,Cloudy,16
+Gothenburg,Saturday,04-03-2023,11:00,Partly Cloudy,18
+Gothenburg,Saturday,04-03-2023,11:30,Sunny,16
+Gothenburg,Saturday,04-03-2023,12:00,Partly Cloudy,14
+Gothenburg,Saturday,04-03-2023,12:30,Thunderstorms,14
+Gothenburg,Saturday,04-03-2023,13:00,Thunderstorms,17
+Gothenburg,Saturday,04-03-2023,13:30,Partly Cloudy,26
+Gothenburg,Saturday,04-03-2023,14:00,Rainy,10
+Gothenburg,Saturday,04-03-2023,14:30,Cloudy,20
+Gothenburg,Saturday,04-03-2023,15:00,Cloudy,18
+Gothenburg,Saturday,04-03-2023,15:30,Rainy,9
+Gothenburg,Saturday,04-03-2023,16:00,Thunderstorms,16
+Gothenburg,Saturday,04-03-2023,16:30,Rainy,12
+Gothenburg,Saturday,04-03-2023,17:00,Rainy,15
+Gothenburg,Saturday,04-03-2023,17:30,Rainy,13
+Gothenburg,Saturday,04-03-2023,18:00,Thunderstorms,11
+Gothenburg,Saturday,04-03-2023,18:30,Partly Cloudy,24
+Gothenburg,Saturday,04-03-2023,19:00,Rainy,11
+Gothenburg,Saturday,04-03-2023,19:30,Partly Cloudy,24
+Gothenburg,Saturday,04-03-2023,20:00,Thunderstorms,11
+Gothenburg,Saturday,04-03-2023,20:30,Sunny,30
+Gothenburg,Saturday,04-03-2023,21:00,Cloudy,13
+Gothenburg,Saturday,04-03-2023,21:30,Cloudy,11
+Gothenburg,Saturday,04-03-2023,22:00,Rainy,11
+Gothenburg,Saturday,04-03-2023,22:30,Thunderstorms,7
+Gothenburg,Saturday,04-03-2023,23:00,Sunny,27
+Gothenburg,Saturday,04-03-2023,23:30,Thunderstorms,11
+Gothenburg,Sunday,05-03-2023,00:00,Rainy,12
+Gothenburg,Sunday,05-03-2023,00:30,Sunny,19
+Gothenburg,Sunday,05-03-2023,01:00,Sunny,24
+Gothenburg,Sunday,05-03-2023,01:30,Thunderstorms,10
+Gothenburg,Sunday,05-03-2023,02:00,Cloudy,20
+Gothenburg,Sunday,05-03-2023,02:30,Rainy,11
+Gothenburg,Sunday,05-03-2023,03:00,Rainy,7
+Gothenburg,Sunday,05-03-2023,03:30,Sunny,23
+Gothenburg,Sunday,05-03-2023,04:00,Partly Cloudy,24
+Gothenburg,Sunday,05-03-2023,04:30,Sunny,24
+Gothenburg,Sunday,05-03-2023,05:00,Sunny,22
+Gothenburg,Sunday,05-03-2023,05:30,Partly Cloudy,24
+Gothenburg,Sunday,05-03-2023,06:00,Partly Cloudy,21
+Gothenburg,Sunday,05-03-2023,06:30,Partly Cloudy,27
+Gothenburg,Sunday,05-03-2023,07:00,Rainy,11
+Gothenburg,Sunday,05-03-2023,07:30,Rainy,12
+Gothenburg,Sunday,05-03-2023,08:00,Sunny,30
+Gothenburg,Sunday,05-03-2023,08:30,Thunderstorms,11
+Gothenburg,Sunday,05-03-2023,09:00,Partly Cloudy,20
+Gothenburg,Sunday,05-03-2023,09:30,Partly Cloudy,19
+Gothenburg,Sunday,05-03-2023,10:00,Thunderstorms,8
+Gothenburg,Sunday,05-03-2023,10:30,Sunny,25
+Gothenburg,Sunday,05-03-2023,11:00,Thunderstorms,11
+Gothenburg,Sunday,05-03-2023,11:30,Sunny,24
+Gothenburg,Sunday,05-03-2023,12:00,Rainy,13
+Gothenburg,Sunday,05-03-2023,12:30,Cloudy,12
+Gothenburg,Sunday,05-03-2023,13:00,Thunderstorms,10
+Gothenburg,Sunday,05-03-2023,13:30,Rainy,10
+Gothenburg,Sunday,05-03-2023,14:00,Sunny,30
+Gothenburg,Sunday,05-03-2023,14:30,Sunny,29
+Gothenburg,Sunday,05-03-2023,15:00,Thunderstorms,11
+Gothenburg,Sunday,05-03-2023,15:30,Partly Cloudy,26
+Gothenburg,Sunday,05-03-2023,16:00,Thunderstorms,13
+Gothenburg,Sunday,05-03-2023,16:30,Thunderstorms,17
+Gothenburg,Sunday,05-03-2023,17:00,Sunny,26
+Gothenburg,Sunday,05-03-2023,17:30,Sunny,30
+Gothenburg,Sunday,05-03-2023,18:00,Partly Cloudy,23
+Gothenburg,Sunday,05-03-2023,18:30,Rainy,14
+Gothenburg,Sunday,05-03-2023,19:00,Partly Cloudy,19
+Gothenburg,Sunday,05-03-2023,19:30,Cloudy,19
+Gothenburg,Sunday,05-03-2023,20:00,Partly Cloudy,15
+Gothenburg,Sunday,05-03-2023,20:30,Rainy,12
+Gothenburg,Sunday,05-03-2023,21:00,Thunderstorms,11
+Gothenburg,Sunday,05-03-2023,21:30,Rainy,4
+Gothenburg,Sunday,05-03-2023,22:00,Thunderstorms,18
+Gothenburg,Sunday,05-03-2023,22:30,Cloudy,22
+Gothenburg,Sunday,05-03-2023,23:00,Partly Cloudy,16
+Gothenburg,Sunday,05-03-2023,23:30,Thunderstorms,14
+Gothenburg,Monday,06-03-2023,00:00,Sunny,24
+Gothenburg,Monday,06-03-2023,00:30,Thunderstorms,10
+Gothenburg,Monday,06-03-2023,01:00,Sunny,18
+Gothenburg,Monday,06-03-2023,01:30,Cloudy,16
+Gothenburg,Monday,06-03-2023,02:00,Thunderstorms,14
+Gothenburg,Monday,06-03-2023,02:30,Rainy,10
+Gothenburg,Monday,06-03-2023,03:00,Thunderstorms,10
+Gothenburg,Monday,06-03-2023,03:30,Cloudy,12
+Gothenburg,Monday,06-03-2023,04:00,Rainy,6
+Gothenburg,Monday,06-03-2023,04:30,Thunderstorms,11
+Gothenburg,Monday,06-03-2023,05:00,Rainy,10
+Gothenburg,Monday,06-03-2023,05:30,Thunderstorms,14
+Gothenburg,Monday,06-03-2023,06:00,Sunny,20
+Gothenburg,Monday,06-03-2023,06:30,Sunny,20
+Gothenburg,Monday,06-03-2023,07:00,Rainy,4
+Gothenburg,Monday,06-03-2023,07:30,Partly Cloudy,19
+Gothenburg,Monday,06-03-2023,08:00,Thunderstorms,8
+Gothenburg,Monday,06-03-2023,08:30,Thunderstorms,18
+Gothenburg,Monday,06-03-2023,09:00,Sunny,24
+Gothenburg,Monday,06-03-2023,09:30,Rainy,13
+Gothenburg,Monday,06-03-2023,10:00,Cloudy,18
+Gothenburg,Monday,06-03-2023,10:30,Rainy,17
+Gothenburg,Monday,06-03-2023,11:00,Sunny,29
+Gothenburg,Monday,06-03-2023,11:30,Rainy,17
+Gothenburg,Monday,06-03-2023,12:00,Rainy,5
+Gothenburg,Monday,06-03-2023,12:30,Rainy,16
+Gothenburg,Monday,06-03-2023,13:00,Thunderstorms,5
+Gothenburg,Monday,06-03-2023,13:30,Rainy,14
+Gothenburg,Monday,06-03-2023,14:00,Cloudy,11
+Gothenburg,Monday,06-03-2023,14:30,Partly Cloudy,22
+Gothenburg,Monday,06-03-2023,15:00,Rainy,18
+Gothenburg,Monday,06-03-2023,15:30,Rainy,8
+Gothenburg,Monday,06-03-2023,16:00,Thunderstorms,19
+Gothenburg,Monday,06-03-2023,16:30,Partly Cloudy,18
+Gothenburg,Monday,06-03-2023,17:00,Partly Cloudy,23
+Gothenburg,Monday,06-03-2023,17:30,Partly Cloudy,22
+Gothenburg,Monday,06-03-2023,18:00,Thunderstorms,13
+Gothenburg,Monday,06-03-2023,18:30,Partly Cloudy,26
+Gothenburg,Monday,06-03-2023,19:00,Cloudy,16
+Gothenburg,Monday,06-03-2023,19:30,Sunny,28
+Gothenburg,Monday,06-03-2023,20:00,Rainy,14
+Gothenburg,Monday,06-03-2023,20:30,Cloudy,16
+Gothenburg,Monday,06-03-2023,21:00,Thunderstorms,13
+Gothenburg,Monday,06-03-2023,21:30,Sunny,24
+Gothenburg,Monday,06-03-2023,22:00,Partly Cloudy,23
+Gothenburg,Monday,06-03-2023,22:30,Cloudy,15
+Gothenburg,Monday,06-03-2023,23:00,Cloudy,12
+Gothenburg,Monday,06-03-2023,23:30,Sunny,22
+Gothenburg,Tuesday,07-03-2023,00:00,Rainy,6
+Gothenburg,Tuesday,07-03-2023,00:30,Sunny,17
+Gothenburg,Tuesday,07-03-2023,01:00,Thunderstorms,14
+Gothenburg,Tuesday,07-03-2023,01:30,Cloudy,21
+Gothenburg,Tuesday,07-03-2023,02:00,Partly Cloudy,27
+Gothenburg,Tuesday,07-03-2023,02:30,Partly Cloudy,21
+Gothenburg,Tuesday,07-03-2023,03:00,Cloudy,7
+Gothenburg,Tuesday,07-03-2023,03:30,Rainy,15
+Gothenburg,Tuesday,07-03-2023,04:00,Thunderstorms,14
+Gothenburg,Tuesday,07-03-2023,04:30,Cloudy,20
+Gothenburg,Tuesday,07-03-2023,05:00,Partly Cloudy,19
+Gothenburg,Tuesday,07-03-2023,05:30,Sunny,18
+Gothenburg,Tuesday,07-03-2023,06:00,Partly Cloudy,16
+Gothenburg,Tuesday,07-03-2023,06:30,Thunderstorms,18
+Gothenburg,Tuesday,07-03-2023,07:00,Rainy,17
+Gothenburg,Tuesday,07-03-2023,07:30,Thunderstorms,17
+Gothenburg,Tuesday,07-03-2023,08:00,Cloudy,13
+Gothenburg,Tuesday,07-03-2023,08:30,Cloudy,13
+Gothenburg,Tuesday,07-03-2023,09:00,Partly Cloudy,18
+Gothenburg,Tuesday,07-03-2023,09:30,Rainy,6
+Gothenburg,Tuesday,07-03-2023,10:00,Sunny,22
+Gothenburg,Tuesday,07-03-2023,10:30,Cloudy,16
+Gothenburg,Tuesday,07-03-2023,11:00,Partly Cloudy,22
+Gothenburg,Tuesday,07-03-2023,11:30,Thunderstorms,9
+Gothenburg,Tuesday,07-03-2023,12:00,Rainy,2
+Gothenburg,Tuesday,07-03-2023,12:30,Thunderstorms,13
+Gothenburg,Tuesday,07-03-2023,13:00,Partly Cloudy,22
+Gothenburg,Tuesday,07-03-2023,13:30,Partly Cloudy,24
+Gothenburg,Tuesday,07-03-2023,14:00,Thunderstorms,14
+Gothenburg,Tuesday,07-03-2023,14:30,Rainy,9
+Gothenburg,Tuesday,07-03-2023,15:00,Thunderstorms,8
+Gothenburg,Tuesday,07-03-2023,15:30,Sunny,17
+Gothenburg,Tuesday,07-03-2023,16:00,Cloudy,14
+Gothenburg,Tuesday,07-03-2023,16:30,Rainy,10
+Gothenburg,Tuesday,07-03-2023,17:00,Rainy,12
+Gothenburg,Tuesday,07-03-2023,17:30,Cloudy,12
+Gothenburg,Tuesday,07-03-2023,18:00,Thunderstorms,20
+Gothenburg,Tuesday,07-03-2023,18:30,Thunderstorms,10
+Gothenburg,Tuesday,07-03-2023,19:00,Rainy,13
+Gothenburg,Tuesday,07-03-2023,19:30,Cloudy,15
+Gothenburg,Tuesday,07-03-2023,20:00,Rainy,6
+Gothenburg,Tuesday,07-03-2023,20:30,Cloudy,13
+Gothenburg,Tuesday,07-03-2023,21:00,Cloudy,19
+Gothenburg,Tuesday,07-03-2023,21:30,Thunderstorms,13
+Gothenburg,Tuesday,07-03-2023,22:00,Rainy,7
+Gothenburg,Tuesday,07-03-2023,22:30,Rainy,11
+Gothenburg,Tuesday,07-03-2023,23:00,Partly Cloudy,19
+Gothenburg,Tuesday,07-03-2023,23:30,Partly Cloudy,14
+Gothenburg,Wednesday,08-03-2023,00:00,Rainy,13
+Gothenburg,Wednesday,08-03-2023,00:30,Thunderstorms,8
+Gothenburg,Wednesday,08-03-2023,01:00,Sunny,26
+Gothenburg,Wednesday,08-03-2023,01:30,Thunderstorms,10
+Gothenburg,Wednesday,08-03-2023,02:00,Rainy,17
+Gothenburg,Wednesday,08-03-2023,02:30,Rainy,15
+Gothenburg,Wednesday,08-03-2023,03:00,Cloudy,7
+Gothenburg,Wednesday,08-03-2023,03:30,Thunderstorms,12
+Gothenburg,Wednesday,08-03-2023,04:00,Cloudy,11
+Gothenburg,Wednesday,08-03-2023,04:30,Partly Cloudy,25
+Gothenburg,Wednesday,08-03-2023,05:00,Thunderstorms,12
+Gothenburg,Wednesday,08-03-2023,05:30,Sunny,27
+Gothenburg,Wednesday,08-03-2023,06:00,Cloudy,11
+Gothenburg,Wednesday,08-03-2023,06:30,Cloudy,13
+Gothenburg,Wednesday,08-03-2023,07:00,Partly Cloudy,22
+Gothenburg,Wednesday,08-03-2023,07:30,Rainy,17
+Gothenburg,Wednesday,08-03-2023,08:00,Rainy,6
+Gothenburg,Wednesday,08-03-2023,08:30,Cloudy,8
+Gothenburg,Wednesday,08-03-2023,09:00,Sunny,23
+Gothenburg,Wednesday,08-03-2023,09:30,Cloudy,20
+Gothenburg,Wednesday,08-03-2023,10:00,Rainy,12
+Gothenburg,Wednesday,08-03-2023,10:30,Cloudy,15
+Gothenburg,Wednesday,08-03-2023,11:00,Rainy,18
+Gothenburg,Wednesday,08-03-2023,11:30,Partly Cloudy,24
+Gothenburg,Wednesday,08-03-2023,12:00,Rainy,13
+Gothenburg,Wednesday,08-03-2023,12:30,Sunny,24
+Gothenburg,Wednesday,08-03-2023,13:00,Thunderstorms,7
+Gothenburg,Wednesday,08-03-2023,13:30,Thunderstorms,18
+Gothenburg,Wednesday,08-03-2023,14:00,Thunderstorms,19
+Gothenburg,Wednesday,08-03-2023,14:30,Sunny,30
+Gothenburg,Wednesday,08-03-2023,15:00,Rainy,10
+Gothenburg,Wednesday,08-03-2023,15:30,Rainy,8
+Gothenburg,Wednesday,08-03-2023,16:00,Thunderstorms,15
+Gothenburg,Wednesday,08-03-2023,16:30,Sunny,28
+Gothenburg,Wednesday,08-03-2023,17:00,Sunny,28
+Gothenburg,Wednesday,08-03-2023,17:30,Partly Cloudy,15
+Gothenburg,Wednesday,08-03-2023,18:00,Thunderstorms,16
+Gothenburg,Wednesday,08-03-2023,18:30,Cloudy,12
+Gothenburg,Wednesday,08-03-2023,19:00,Partly Cloudy,15
+Gothenburg,Wednesday,08-03-2023,19:30,Cloudy,10
+Gothenburg,Wednesday,08-03-2023,20:00,Rainy,13
+Gothenburg,Wednesday,08-03-2023,20:30,Thunderstorms,8
+Gothenburg,Wednesday,08-03-2023,21:00,Partly Cloudy,19
+Gothenburg,Wednesday,08-03-2023,21:30,Thunderstorms,6
+Gothenburg,Wednesday,08-03-2023,22:00,Cloudy,12
+Gothenburg,Wednesday,08-03-2023,22:30,Rainy,9
+Gothenburg,Wednesday,08-03-2023,23:00,Sunny,30
+Gothenburg,Wednesday,08-03-2023,23:30,Thunderstorms,17
+Gothenburg,Thursday,09-03-2023,00:00,Rainy,10
+Gothenburg,Thursday,09-03-2023,00:30,Cloudy,11
+Gothenburg,Thursday,09-03-2023,01:00,Partly Cloudy,18
+Gothenburg,Thursday,09-03-2023,01:30,Partly Cloudy,16
+Gothenburg,Thursday,09-03-2023,02:00,Cloudy,14
+Gothenburg,Thursday,09-03-2023,02:30,Partly Cloudy,14
+Gothenburg,Thursday,09-03-2023,03:00,Rainy,16
+Gothenburg,Thursday,09-03-2023,03:30,Cloudy,19
+Gothenburg,Thursday,09-03-2023,04:00,Cloudy,9
+Gothenburg,Thursday,09-03-2023,04:30,Sunny,30
+Gothenburg,Thursday,09-03-2023,05:00,Thunderstorms,15
+Gothenburg,Thursday,09-03-2023,05:30,Partly Cloudy,19
+Gothenburg,Thursday,09-03-2023,06:00,Thunderstorms,13
+Gothenburg,Thursday,09-03-2023,06:30,Sunny,30
+Gothenburg,Thursday,09-03-2023,07:00,Rainy,11
+Gothenburg,Thursday,09-03-2023,07:30,Rainy,14
+Gothenburg,Thursday,09-03-2023,08:00,Partly Cloudy,19
+Gothenburg,Thursday,09-03-2023,08:30,Partly Cloudy,19
+Gothenburg,Thursday,09-03-2023,09:00,Rainy,12
+Gothenburg,Thursday,09-03-2023,09:30,Thunderstorms,17
+Gothenburg,Thursday,09-03-2023,10:00,Rainy,7
+Gothenburg,Thursday,09-03-2023,10:30,Cloudy,15
+Gothenburg,Thursday,09-03-2023,11:00,Sunny,19
+Gothenburg,Thursday,09-03-2023,11:30,Rainy,10
+Gothenburg,Thursday,09-03-2023,12:00,Partly Cloudy,13
+Gothenburg,Thursday,09-03-2023,12:30,Rainy,12
+Gothenburg,Thursday,09-03-2023,13:00,Cloudy,13
+Gothenburg,Thursday,09-03-2023,13:30,Rainy,6
+Gothenburg,Thursday,09-03-2023,14:00,Partly Cloudy,14
+Gothenburg,Thursday,09-03-2023,14:30,Rainy,6
+Gothenburg,Thursday,09-03-2023,15:00,Sunny,25
+Gothenburg,Thursday,09-03-2023,15:30,Cloudy,13
+Gothenburg,Thursday,09-03-2023,16:00,Cloudy,18
+Gothenburg,Thursday,09-03-2023,16:30,Sunny,21
+Gothenburg,Thursday,09-03-2023,17:00,Rainy,3
+Gothenburg,Thursday,09-03-2023,17:30,Thunderstorms,17
+Gothenburg,Thursday,09-03-2023,18:00,Sunny,30
+Gothenburg,Thursday,09-03-2023,18:30,Thunderstorms,16
+Gothenburg,Thursday,09-03-2023,19:00,Sunny,21
+Gothenburg,Thursday,09-03-2023,19:30,Thunderstorms,7
+Gothenburg,Thursday,09-03-2023,20:00,Thunderstorms,11
+Gothenburg,Thursday,09-03-2023,20:30,Rainy,14
+Gothenburg,Thursday,09-03-2023,21:00,Cloudy,14
+Gothenburg,Thursday,09-03-2023,21:30,Sunny,25
+Gothenburg,Thursday,09-03-2023,22:00,Cloudy,15
+Gothenburg,Thursday,09-03-2023,22:30,Thunderstorms,20
+Gothenburg,Thursday,09-03-2023,23:00,Partly Cloudy,12
+Gothenburg,Thursday,09-03-2023,23:30,Sunny,21
+Gothenburg,Friday,10-03-2023,00:00,Rainy,14
+Gothenburg,Friday,10-03-2023,00:30,Thunderstorms,18
+Gothenburg,Friday,10-03-2023,01:00,Cloudy,11
+Gothenburg,Friday,10-03-2023,01:30,Rainy,14
+Gothenburg,Friday,10-03-2023,02:00,Partly Cloudy,20
+Gothenburg,Friday,10-03-2023,02:30,Thunderstorms,10
+Gothenburg,Friday,10-03-2023,03:00,Thunderstorms,13
+Gothenburg,Friday,10-03-2023,03:30,Rainy,9
+Gothenburg,Friday,10-03-2023,04:00,Sunny,28
+Gothenburg,Friday,10-03-2023,04:30,Thunderstorms,13
+Gothenburg,Friday,10-03-2023,05:00,Thunderstorms,12
+Gothenburg,Friday,10-03-2023,05:30,Partly Cloudy,17
+Gothenburg,Friday,10-03-2023,06:00,Thunderstorms,15
+Gothenburg,Friday,10-03-2023,06:30,Partly Cloudy,27
+Gothenburg,Friday,10-03-2023,07:00,Cloudy,18
+Gothenburg,Friday,10-03-2023,07:30,Partly Cloudy,25
+Gothenburg,Friday,10-03-2023,08:00,Rainy,9
+Gothenburg,Friday,10-03-2023,08:30,Partly Cloudy,16
+Gothenburg,Friday,10-03-2023,09:00,Partly Cloudy,18
+Gothenburg,Friday,10-03-2023,09:30,Thunderstorms,15
+Gothenburg,Friday,10-03-2023,10:00,Sunny,23
+Gothenburg,Friday,10-03-2023,10:30,Cloudy,15
+Gothenburg,Friday,10-03-2023,11:00,Rainy,17
+Gothenburg,Friday,10-03-2023,11:30,Thunderstorms,19
+Gothenburg,Friday,10-03-2023,12:00,Rainy,9
+Gothenburg,Friday,10-03-2023,12:30,Sunny,30
+Gothenburg,Friday,10-03-2023,13:00,Sunny,17
+Gothenburg,Friday,10-03-2023,13:30,Cloudy,12
+Gothenburg,Friday,10-03-2023,14:00,Rainy,6
+Gothenburg,Friday,10-03-2023,14:30,Cloudy,15
+Gothenburg,Friday,10-03-2023,15:00,Thunderstorms,11
+Gothenburg,Friday,10-03-2023,15:30,Cloudy,10
+Gothenburg,Friday,10-03-2023,16:00,Thunderstorms,15
+Gothenburg,Friday,10-03-2023,16:30,Sunny,30
+Gothenburg,Friday,10-03-2023,17:00,Rainy,5
+Gothenburg,Friday,10-03-2023,17:30,Cloudy,20
+Gothenburg,Friday,10-03-2023,18:00,Thunderstorms,16
+Gothenburg,Friday,10-03-2023,18:30,Partly Cloudy,21
+Gothenburg,Friday,10-03-2023,19:00,Cloudy,11
+Gothenburg,Friday,10-03-2023,19:30,Cloudy,15
+Gothenburg,Friday,10-03-2023,20:00,Rainy,5
+Gothenburg,Friday,10-03-2023,20:30,Partly Cloudy,21
+Gothenburg,Friday,10-03-2023,21:00,Sunny,22
+Gothenburg,Friday,10-03-2023,21:30,Cloudy,23
+Gothenburg,Friday,10-03-2023,22:00,Rainy,10
+Gothenburg,Friday,10-03-2023,22:30,Thunderstorms,14
+Gothenburg,Friday,10-03-2023,23:00,Partly Cloudy,22
+Gothenburg,Friday,10-03-2023,23:30,Sunny,25
+Malmo,Saturday,04-03-2023,00:00,Thunderstorms,19
+Malmo,Saturday,04-03-2023,00:30,Thunderstorms,13
+Malmo,Saturday,04-03-2023,01:00,Sunny,27
+Malmo,Saturday,04-03-2023,01:30,Rainy,4
+Malmo,Saturday,04-03-2023,02:00,Thunderstorms,11
+Malmo,Saturday,04-03-2023,02:30,Sunny,27
+Malmo,Saturday,04-03-2023,03:00,Partly Cloudy,24
+Malmo,Saturday,04-03-2023,03:30,Rainy,13
+Malmo,Saturday,04-03-2023,04:00,Partly Cloudy,17
+Malmo,Saturday,04-03-2023,04:30,Rainy,13
+Malmo,Saturday,04-03-2023,05:00,Sunny,27
+Malmo,Saturday,04-03-2023,05:30,Sunny,27
+Malmo,Saturday,04-03-2023,06:00,Partly Cloudy,23
+Malmo,Saturday,04-03-2023,06:30,Rainy,13
+Malmo,Saturday,04-03-2023,07:00,Sunny,23
+Malmo,Saturday,04-03-2023,07:30,Rainy,8
+Malmo,Saturday,04-03-2023,08:00,Thunderstorms,10
+Malmo,Saturday,04-03-2023,08:30,Cloudy,11
+Malmo,Saturday,04-03-2023,09:00,Rainy,7
+Malmo,Saturday,04-03-2023,09:30,Cloudy,12
+Malmo,Saturday,04-03-2023,10:00,Cloudy,23
+Malmo,Saturday,04-03-2023,10:30,Sunny,30
+Malmo,Saturday,04-03-2023,11:00,Cloudy,23
+Malmo,Saturday,04-03-2023,11:30,Rainy,11
+Malmo,Saturday,04-03-2023,12:00,Partly Cloudy,18
+Malmo,Saturday,04-03-2023,12:30,Rainy,10
+Malmo,Saturday,04-03-2023,13:00,Sunny,20
+Malmo,Saturday,04-03-2023,13:30,Thunderstorms,10
+Malmo,Saturday,04-03-2023,14:00,Sunny,24
+Malmo,Saturday,04-03-2023,14:30,Cloudy,11
+Malmo,Saturday,04-03-2023,15:00,Sunny,16
+Malmo,Saturday,04-03-2023,15:30,Partly Cloudy,19
+Malmo,Saturday,04-03-2023,16:00,Partly Cloudy,23
+Malmo,Saturday,04-03-2023,16:30,Rainy,8
+Malmo,Saturday,04-03-2023,17:00,Thunderstorms,15
+Malmo,Saturday,04-03-2023,17:30,Partly Cloudy,28
+Malmo,Saturday,04-03-2023,18:00,Sunny,29
+Malmo,Saturday,04-03-2023,18:30,Partly Cloudy,17
+Malmo,Saturday,04-03-2023,19:00,Sunny,30
+Malmo,Saturday,04-03-2023,19:30,Sunny,30
+Malmo,Saturday,04-03-2023,20:00,Cloudy,13
+Malmo,Saturday,04-03-2023,20:30,Rainy,11
+Malmo,Saturday,04-03-2023,21:00,Thunderstorms,10
+Malmo,Saturday,04-03-2023,21:30,Partly Cloudy,25
+Malmo,Saturday,04-03-2023,22:00,Thunderstorms,12
+Malmo,Saturday,04-03-2023,22:30,Partly Cloudy,22
+Malmo,Saturday,04-03-2023,23:00,Sunny,23
+Malmo,Saturday,04-03-2023,23:30,Rainy,9
+Malmo,Sunday,05-03-2023,00:00,Rainy,9
+Malmo,Sunday,05-03-2023,00:30,Sunny,16
+Malmo,Sunday,05-03-2023,01:00,Cloudy,19
+Malmo,Sunday,05-03-2023,01:30,Rainy,10
+Malmo,Sunday,05-03-2023,02:00,Sunny,28
+Malmo,Sunday,05-03-2023,02:30,Rainy,7
+Malmo,Sunday,05-03-2023,03:00,Partly Cloudy,20
+Malmo,Sunday,05-03-2023,03:30,Cloudy,20
+Malmo,Sunday,05-03-2023,04:00,Partly Cloudy,26
+Malmo,Sunday,05-03-2023,04:30,Partly Cloudy,20
+Malmo,Sunday,05-03-2023,05:00,Partly Cloudy,28
+Malmo,Sunday,05-03-2023,05:30,Cloudy,14
+Malmo,Sunday,05-03-2023,06:00,Partly Cloudy,22
+Malmo,Sunday,05-03-2023,06:30,Rainy,10
+Malmo,Sunday,05-03-2023,07:00,Partly Cloudy,20
+Malmo,Sunday,05-03-2023,07:30,Cloudy,13
+Malmo,Sunday,05-03-2023,08:00,Sunny,22
+Malmo,Sunday,05-03-2023,08:30,Sunny,25
+Malmo,Sunday,05-03-2023,09:00,Rainy,4
+Malmo,Sunday,05-03-2023,09:30,Rainy,18
+Malmo,Sunday,05-03-2023,10:00,Thunderstorms,6
+Malmo,Sunday,05-03-2023,10:30,Thunderstorms,9
+Malmo,Sunday,05-03-2023,11:00,Thunderstorms,9
+Malmo,Sunday,05-03-2023,11:30,Cloudy,21
+Malmo,Sunday,05-03-2023,12:00,Thunderstorms,13
+Malmo,Sunday,05-03-2023,12:30,Partly Cloudy,23
+Malmo,Sunday,05-03-2023,13:00,Partly Cloudy,21
+Malmo,Sunday,05-03-2023,13:30,Partly Cloudy,18
+Malmo,Sunday,05-03-2023,14:00,Rainy,9
+Malmo,Sunday,05-03-2023,14:30,Cloudy,15
+Malmo,Sunday,05-03-2023,15:00,Sunny,26
+Malmo,Sunday,05-03-2023,15:30,Cloudy,12
+Malmo,Sunday,05-03-2023,16:00,Partly Cloudy,18
+Malmo,Sunday,05-03-2023,16:30,Thunderstorms,20
+Malmo,Sunday,05-03-2023,17:00,Rainy,11
+Malmo,Sunday,05-03-2023,17:30,Rainy,14
+Malmo,Sunday,05-03-2023,18:00,Partly Cloudy,27
+Malmo,Sunday,05-03-2023,18:30,Sunny,26
+Malmo,Sunday,05-03-2023,19:00,Partly Cloudy,19
+Malmo,Sunday,05-03-2023,19:30,Cloudy,18
+Malmo,Sunday,05-03-2023,20:00,Thunderstorms,16
+Malmo,Sunday,05-03-2023,20:30,Sunny,25
+Malmo,Sunday,05-03-2023,21:00,Sunny,25
+Malmo,Sunday,05-03-2023,21:30,Thunderstorms,10
+Malmo,Sunday,05-03-2023,22:00,Thunderstorms,16
+Malmo,Sunday,05-03-2023,22:30,Thunderstorms,11
+Malmo,Sunday,05-03-2023,23:00,Sunny,27
+Malmo,Sunday,05-03-2023,23:30,Partly Cloudy,17
+Malmo,Monday,06-03-2023,00:00,Sunny,25
+Malmo,Monday,06-03-2023,00:30,Thunderstorms,12
+Malmo,Monday,06-03-2023,01:00,Thunderstorms,14
+Malmo,Monday,06-03-2023,01:30,Rainy,7
+Malmo,Monday,06-03-2023,02:00,Rainy,15
+Malmo,Monday,06-03-2023,02:30,Thunderstorms,8
+Malmo,Monday,06-03-2023,03:00,Partly Cloudy,18
+Malmo,Monday,06-03-2023,03:30,Cloudy,9
+Malmo,Monday,06-03-2023,04:00,Cloudy,11
+Malmo,Monday,06-03-2023,04:30,Thunderstorms,12
+Malmo,Monday,06-03-2023,05:00,Cloudy,20
+Malmo,Monday,06-03-2023,05:30,Sunny,18
+Malmo,Monday,06-03-2023,06:00,Cloudy,17
+Malmo,Monday,06-03-2023,06:30,Sunny,15
+Malmo,Monday,06-03-2023,07:00,Thunderstorms,11
+Malmo,Monday,06-03-2023,07:30,Rainy,12
+Malmo,Monday,06-03-2023,08:00,Partly Cloudy,23
+Malmo,Monday,06-03-2023,08:30,Rainy,3
+Malmo,Monday,06-03-2023,09:00,Partly Cloudy,18
+Malmo,Monday,06-03-2023,09:30,Cloudy,20
+Malmo,Monday,06-03-2023,10:00,Partly Cloudy,24
+Malmo,Monday,06-03-2023,10:30,Cloudy,20
+Malmo,Monday,06-03-2023,11:00,Rainy,16
+Malmo,Monday,06-03-2023,11:30,Sunny,18
+Malmo,Monday,06-03-2023,12:00,Rainy,13
+Malmo,Monday,06-03-2023,12:30,Rainy,16
+Malmo,Monday,06-03-2023,13:00,Rainy,15
+Malmo,Monday,06-03-2023,13:30,Cloudy,17
+Malmo,Monday,06-03-2023,14:00,Partly Cloudy,20
+Malmo,Monday,06-03-2023,14:30,Rainy,5
+Malmo,Monday,06-03-2023,15:00,Partly Cloudy,22
+Malmo,Monday,06-03-2023,15:30,Sunny,19
+Malmo,Monday,06-03-2023,16:00,Thunderstorms,15
+Malmo,Monday,06-03-2023,16:30,Sunny,27
+Malmo,Monday,06-03-2023,17:00,Thunderstorms,16
+Malmo,Monday,06-03-2023,17:30,Partly Cloudy,23
+Malmo,Monday,06-03-2023,18:00,Cloudy,17
+Malmo,Monday,06-03-2023,18:30,Partly Cloudy,18
+Malmo,Monday,06-03-2023,19:00,Rainy,11
+Malmo,Monday,06-03-2023,19:30,Cloudy,20
+Malmo,Monday,06-03-2023,20:00,Sunny,27
+Malmo,Monday,06-03-2023,20:30,Rainy,9
+Malmo,Monday,06-03-2023,21:00,Thunderstorms,6
+Malmo,Monday,06-03-2023,21:30,Partly Cloudy,15
+Malmo,Monday,06-03-2023,22:00,Thunderstorms,13
+Malmo,Monday,06-03-2023,22:30,Sunny,30
+Malmo,Monday,06-03-2023,23:00,Thunderstorms,6
+Malmo,Monday,06-03-2023,23:30,Rainy,9
+Malmo,Tuesday,07-03-2023,00:00,Rainy,13
+Malmo,Tuesday,07-03-2023,00:30,Cloudy,12
+Malmo,Tuesday,07-03-2023,01:00,Partly Cloudy,19
+Malmo,Tuesday,07-03-2023,01:30,Thunderstorms,11
+Malmo,Tuesday,07-03-2023,02:00,Partly Cloudy,25
+Malmo,Tuesday,07-03-2023,02:30,Rainy,8
+Malmo,Tuesday,07-03-2023,03:00,Rainy,9
+Malmo,Tuesday,07-03-2023,03:30,Partly Cloudy,17
+Malmo,Tuesday,07-03-2023,04:00,Sunny,29
+Malmo,Tuesday,07-03-2023,04:30,Thunderstorms,16
+Malmo,Tuesday,07-03-2023,05:00,Cloudy,15
+Malmo,Tuesday,07-03-2023,05:30,Rainy,8
+Malmo,Tuesday,07-03-2023,06:00,Cloudy,15
+Malmo,Tuesday,07-03-2023,06:30,Rainy,10
+Malmo,Tuesday,07-03-2023,07:00,Rainy,14
+Malmo,Tuesday,07-03-2023,07:30,Thunderstorms,15
+Malmo,Tuesday,07-03-2023,08:00,Cloudy,17
+Malmo,Tuesday,07-03-2023,08:30,Cloudy,16
+Malmo,Tuesday,07-03-2023,09:00,Cloudy,16
+Malmo,Tuesday,07-03-2023,09:30,Sunny,29
+Malmo,Tuesday,07-03-2023,10:00,Partly Cloudy,19
+Malmo,Tuesday,07-03-2023,10:30,Sunny,21
+Malmo,Tuesday,07-03-2023,11:00,Rainy,9
+Malmo,Tuesday,07-03-2023,11:30,Thunderstorms,13
+Malmo,Tuesday,07-03-2023,12:00,Sunny,26
+Malmo,Tuesday,07-03-2023,12:30,Partly Cloudy,19
+Malmo,Tuesday,07-03-2023,13:00,Cloudy,17
+Malmo,Tuesday,07-03-2023,13:30,Sunny,22
+Malmo,Tuesday,07-03-2023,14:00,Cloudy,20
+Malmo,Tuesday,07-03-2023,14:30,Cloudy,9
+Malmo,Tuesday,07-03-2023,15:00,Sunny,21
+Malmo,Tuesday,07-03-2023,15:30,Rainy,11
+Malmo,Tuesday,07-03-2023,16:00,Partly Cloudy,13
+Malmo,Tuesday,07-03-2023,16:30,Partly Cloudy,14
+Malmo,Tuesday,07-03-2023,17:00,Sunny,24
+Malmo,Tuesday,07-03-2023,17:30,Partly Cloudy,21
+Malmo,Tuesday,07-03-2023,18:00,Rainy,10
+Malmo,Tuesday,07-03-2023,18:30,Thunderstorms,19
+Malmo,Tuesday,07-03-2023,19:00,Cloudy,20
+Malmo,Tuesday,07-03-2023,19:30,Sunny,16
+Malmo,Tuesday,07-03-2023,20:00,Partly Cloudy,20
+Malmo,Tuesday,07-03-2023,20:30,Partly Cloudy,14
+Malmo,Tuesday,07-03-2023,21:00,Rainy,3
+Malmo,Tuesday,07-03-2023,21:30,Cloudy,7
+Malmo,Tuesday,07-03-2023,22:00,Rainy,5
+Malmo,Tuesday,07-03-2023,22:30,Partly Cloudy,20
+Malmo,Tuesday,07-03-2023,23:00,Rainy,3
+Malmo,Tuesday,07-03-2023,23:30,Cloudy,21
+Malmo,Wednesday,08-03-2023,00:00,Thunderstorms,13
+Malmo,Wednesday,08-03-2023,00:30,Partly Cloudy,18
+Malmo,Wednesday,08-03-2023,01:00,Thunderstorms,16
+Malmo,Wednesday,08-03-2023,01:30,Rainy,4
+Malmo,Wednesday,08-03-2023,02:00,Rainy,5
+Malmo,Wednesday,08-03-2023,02:30,Sunny,25
+Malmo,Wednesday,08-03-2023,03:00,Rainy,15
+Malmo,Wednesday,08-03-2023,03:30,Rainy,8
+Malmo,Wednesday,08-03-2023,04:00,Cloudy,15
+Malmo,Wednesday,08-03-2023,04:30,Sunny,27
+Malmo,Wednesday,08-03-2023,05:00,Partly Cloudy,24
+Malmo,Wednesday,08-03-2023,05:30,Cloudy,15
+Malmo,Wednesday,08-03-2023,06:00,Rainy,10
+Malmo,Wednesday,08-03-2023,06:30,Cloudy,10
+Malmo,Wednesday,08-03-2023,07:00,Cloudy,22
+Malmo,Wednesday,08-03-2023,07:30,Thunderstorms,13
+Malmo,Wednesday,08-03-2023,08:00,Cloudy,18
+Malmo,Wednesday,08-03-2023,08:30,Cloudy,13
+Malmo,Wednesday,08-03-2023,09:00,Sunny,31
+Malmo,Wednesday,08-03-2023,09:30,Cloudy,16
+Malmo,Wednesday,08-03-2023,10:00,Partly Cloudy,24
+Malmo,Wednesday,08-03-2023,10:30,Partly Cloudy,20
+Malmo,Wednesday,08-03-2023,11:00,Partly Cloudy,24
+Malmo,Wednesday,08-03-2023,11:30,Partly Cloudy,23
+Malmo,Wednesday,08-03-2023,12:00,Rainy,10
+Malmo,Wednesday,08-03-2023,12:30,Partly Cloudy,18
+Malmo,Wednesday,08-03-2023,13:00,Cloudy,13
+Malmo,Wednesday,08-03-2023,13:30,Cloudy,12
+Malmo,Wednesday,08-03-2023,14:00,Cloudy,9
+Malmo,Wednesday,08-03-2023,14:30,Sunny,20
+Malmo,Wednesday,08-03-2023,15:00,Cloudy,22
+Malmo,Wednesday,08-03-2023,15:30,Thunderstorms,16
+Malmo,Wednesday,08-03-2023,16:00,Sunny,25
+Malmo,Wednesday,08-03-2023,16:30,Thunderstorms,15
+Malmo,Wednesday,08-03-2023,17:00,Partly Cloudy,25
+Malmo,Wednesday,08-03-2023,17:30,Sunny,29
+Malmo,Wednesday,08-03-2023,18:00,Thunderstorms,10
+Malmo,Wednesday,08-03-2023,18:30,Sunny,22
+Malmo,Wednesday,08-03-2023,19:00,Thunderstorms,14
+Malmo,Wednesday,08-03-2023,19:30,Sunny,25
+Malmo,Wednesday,08-03-2023,20:00,Cloudy,8
+Malmo,Wednesday,08-03-2023,20:30,Cloudy,9
+Malmo,Wednesday,08-03-2023,21:00,Cloudy,17
+Malmo,Wednesday,08-03-2023,21:30,Thunderstorms,6
+Malmo,Wednesday,08-03-2023,22:00,Partly Cloudy,14
+Malmo,Wednesday,08-03-2023,22:30,Sunny,26
+Malmo,Wednesday,08-03-2023,23:00,Partly Cloudy,19
+Malmo,Wednesday,08-03-2023,23:30,Thunderstorms,16
+Malmo,Thursday,09-03-2023,00:00,Sunny,19
+Malmo,Thursday,09-03-2023,00:30,Rainy,10
+Malmo,Thursday,09-03-2023,01:00,Rainy,9
+Malmo,Thursday,09-03-2023,01:30,Sunny,26
+Malmo,Thursday,09-03-2023,02:00,Cloudy,13
+Malmo,Thursday,09-03-2023,02:30,Sunny,17
+Malmo,Thursday,09-03-2023,03:00,Sunny,20
+Malmo,Thursday,09-03-2023,03:30,Sunny,23
+Malmo,Thursday,09-03-2023,04:00,Cloudy,19
+Malmo,Thursday,09-03-2023,04:30,Thunderstorms,11
+Malmo,Thursday,09-03-2023,05:00,Sunny,25
+Malmo,Thursday,09-03-2023,05:30,Partly Cloudy,25
+Malmo,Thursday,09-03-2023,06:00,Rainy,9
+Malmo,Thursday,09-03-2023,06:30,Cloudy,14
+Malmo,Thursday,09-03-2023,07:00,Rainy,12
+Malmo,Thursday,09-03-2023,07:30,Sunny,24
+Malmo,Thursday,09-03-2023,08:00,Thunderstorms,7
+Malmo,Thursday,09-03-2023,08:30,Sunny,22
+Malmo,Thursday,09-03-2023,09:00,Thunderstorms,12
+Malmo,Thursday,09-03-2023,09:30,Cloudy,14
+Malmo,Thursday,09-03-2023,10:00,Rainy,3
+Malmo,Thursday,09-03-2023,10:30,Partly Cloudy,16
+Malmo,Thursday,09-03-2023,11:00,Partly Cloudy,17
+Malmo,Thursday,09-03-2023,11:30,Partly Cloudy,18
+Malmo,Thursday,09-03-2023,12:00,Cloudy,11
+Malmo,Thursday,09-03-2023,12:30,Thunderstorms,15
+Malmo,Thursday,09-03-2023,13:00,Cloudy,14
+Malmo,Thursday,09-03-2023,13:30,Cloudy,14
+Malmo,Thursday,09-03-2023,14:00,Thunderstorms,19
+Malmo,Thursday,09-03-2023,14:30,Cloudy,23
+Malmo,Thursday,09-03-2023,15:00,Sunny,29
+Malmo,Thursday,09-03-2023,15:30,Sunny,22
+Malmo,Thursday,09-03-2023,16:00,Rainy,8
+Malmo,Thursday,09-03-2023,16:30,Partly Cloudy,27
+Malmo,Thursday,09-03-2023,17:00,Partly Cloudy,24
+Malmo,Thursday,09-03-2023,17:30,Rainy,4
+Malmo,Thursday,09-03-2023,18:00,Rainy,3
+Malmo,Thursday,09-03-2023,18:30,Cloudy,20
+Malmo,Thursday,09-03-2023,19:00,Partly Cloudy,23
+Malmo,Thursday,09-03-2023,19:30,Sunny,21
+Malmo,Thursday,09-03-2023,20:00,Rainy,9
+Malmo,Thursday,09-03-2023,20:30,Thunderstorms,15
+Malmo,Thursday,09-03-2023,21:00,Rainy,8
+Malmo,Thursday,09-03-2023,21:30,Partly Cloudy,28
+Malmo,Thursday,09-03-2023,22:00,Cloudy,18
+Malmo,Thursday,09-03-2023,22:30,Partly Cloudy,23
+Malmo,Thursday,09-03-2023,23:00,Cloudy,16
+Malmo,Thursday,09-03-2023,23:30,Sunny,24
+Malmo,Friday,10-03-2023,00:00,Cloudy,18
+Malmo,Friday,10-03-2023,00:30,Thunderstorms,17
+Malmo,Friday,10-03-2023,01:00,Sunny,25
+Malmo,Friday,10-03-2023,01:30,Thunderstorms,15
+Malmo,Friday,10-03-2023,02:00,Sunny,21
+Malmo,Friday,10-03-2023,02:30,Sunny,31
+Malmo,Friday,10-03-2023,03:00,Sunny,27
+Malmo,Friday,10-03-2023,03:30,Rainy,7
+Malmo,Friday,10-03-2023,04:00,Partly Cloudy,18
+Malmo,Friday,10-03-2023,04:30,Partly Cloudy,20
+Malmo,Friday,10-03-2023,05:00,Cloudy,22
+Malmo,Friday,10-03-2023,05:30,Partly Cloudy,21
+Malmo,Friday,10-03-2023,06:00,Thunderstorms,18
+Malmo,Friday,10-03-2023,06:30,Rainy,8
+Malmo,Friday,10-03-2023,07:00,Thunderstorms,10
+Malmo,Friday,10-03-2023,07:30,Cloudy,16
+Malmo,Friday,10-03-2023,08:00,Thunderstorms,20
+Malmo,Friday,10-03-2023,08:30,Thunderstorms,14
+Malmo,Friday,10-03-2023,09:00,Partly Cloudy,19
+Malmo,Friday,10-03-2023,09:30,Cloudy,18
+Malmo,Friday,10-03-2023,10:00,Partly Cloudy,15
+Malmo,Friday,10-03-2023,10:30,Cloudy,16
+Malmo,Friday,10-03-2023,11:00,Sunny,27
+Malmo,Friday,10-03-2023,11:30,Partly Cloudy,19
+Malmo,Friday,10-03-2023,12:00,Thunderstorms,11
+Malmo,Friday,10-03-2023,12:30,Sunny,25
+Malmo,Friday,10-03-2023,13:00,Partly Cloudy,23
+Malmo,Friday,10-03-2023,13:30,Partly Cloudy,21
+Malmo,Friday,10-03-2023,14:00,Cloudy,10
+Malmo,Friday,10-03-2023,14:30,Partly Cloudy,19
+Malmo,Friday,10-03-2023,15:00,Rainy,7
+Malmo,Friday,10-03-2023,15:30,Partly Cloudy,27
+Malmo,Friday,10-03-2023,16:00,Thunderstorms,20
+Malmo,Friday,10-03-2023,16:30,Cloudy,7
+Malmo,Friday,10-03-2023,17:00,Cloudy,17
+Malmo,Friday,10-03-2023,17:30,Thunderstorms,18
+Malmo,Friday,10-03-2023,18:00,Rainy,9
+Malmo,Friday,10-03-2023,18:30,Sunny,30
+Malmo,Friday,10-03-2023,19:00,Sunny,21
+Malmo,Friday,10-03-2023,19:30,Sunny,22
+Malmo,Friday,10-03-2023,20:00,Cloudy,12
+Malmo,Friday,10-03-2023,20:30,Thunderstorms,11
+Malmo,Friday,10-03-2023,21:00,Rainy,14
+Malmo,Friday,10-03-2023,21:30,Cloudy,13
+Malmo,Friday,10-03-2023,22:00,Cloudy,13
+Malmo,Friday,10-03-2023,22:30,Sunny,18
+Malmo,Friday,10-03-2023,23:00,Cloudy,9
+Malmo,Friday,10-03-2023,23:30,Sunny,24
+Uppsala,Saturday,04-03-2023,00:00,Thunderstorms,13
+Uppsala,Saturday,04-03-2023,00:30,Partly Cloudy,15
+Uppsala,Saturday,04-03-2023,01:00,Cloudy,15
+Uppsala,Saturday,04-03-2023,01:30,Partly Cloudy,19
+Uppsala,Saturday,04-03-2023,02:00,Partly Cloudy,19
+Uppsala,Saturday,04-03-2023,02:30,Partly Cloudy,17
+Uppsala,Saturday,04-03-2023,03:00,Partly Cloudy,27
+Uppsala,Saturday,04-03-2023,03:30,Sunny,30
+Uppsala,Saturday,04-03-2023,04:00,Partly Cloudy,19
+Uppsala,Saturday,04-03-2023,04:30,Thunderstorms,20
+Uppsala,Saturday,04-03-2023,05:00,Partly Cloudy,22
+Uppsala,Saturday,04-03-2023,05:30,Cloudy,10
+Uppsala,Saturday,04-03-2023,06:00,Sunny,29
+Uppsala,Saturday,04-03-2023,06:30,Sunny,21
+Uppsala,Saturday,04-03-2023,07:00,Rainy,11
+Uppsala,Saturday,04-03-2023,07:30,Sunny,18
+Uppsala,Saturday,04-03-2023,08:00,Cloudy,9
+Uppsala,Saturday,04-03-2023,08:30,Cloudy,18
+Uppsala,Saturday,04-03-2023,09:00,Rainy,8
+Uppsala,Saturday,04-03-2023,09:30,Sunny,30
+Uppsala,Saturday,04-03-2023,10:00,Sunny,31
+Uppsala,Saturday,04-03-2023,10:30,Partly Cloudy,27
+Uppsala,Saturday,04-03-2023,11:00,Partly Cloudy,13
+Uppsala,Saturday,04-03-2023,11:30,Sunny,20
+Uppsala,Saturday,04-03-2023,12:00,Sunny,25
+Uppsala,Saturday,04-03-2023,12:30,Partly Cloudy,14
+Uppsala,Saturday,04-03-2023,13:00,Rainy,8
+Uppsala,Saturday,04-03-2023,13:30,Partly Cloudy,16
+Uppsala,Saturday,04-03-2023,14:00,Rainy,6
+Uppsala,Saturday,04-03-2023,14:30,Thunderstorms,7
+Uppsala,Saturday,04-03-2023,15:00,Rainy,11
+Uppsala,Saturday,04-03-2023,15:30,Rainy,3
+Uppsala,Saturday,04-03-2023,16:00,Sunny,20
+Uppsala,Saturday,04-03-2023,16:30,Cloudy,15
+Uppsala,Saturday,04-03-2023,17:00,Thunderstorms,6
+Uppsala,Saturday,04-03-2023,17:30,Thunderstorms,7
+Uppsala,Saturday,04-03-2023,18:00,Sunny,22
+Uppsala,Saturday,04-03-2023,18:30,Cloudy,19
+Uppsala,Saturday,04-03-2023,19:00,Cloudy,16
+Uppsala,Saturday,04-03-2023,19:30,Cloudy,12
+Uppsala,Saturday,04-03-2023,20:00,Cloudy,13
+Uppsala,Saturday,04-03-2023,20:30,Thunderstorms,8
+Uppsala,Saturday,04-03-2023,21:00,Partly Cloudy,17
+Uppsala,Saturday,04-03-2023,21:30,Cloudy,19
+Uppsala,Saturday,04-03-2023,22:00,Thunderstorms,17
+Uppsala,Saturday,04-03-2023,22:30,Thunderstorms,12
+Uppsala,Saturday,04-03-2023,23:00,Rainy,6
+Uppsala,Saturday,04-03-2023,23:30,Partly Cloudy,21
+Uppsala,Sunday,05-03-2023,00:00,Cloudy,11
+Uppsala,Sunday,05-03-2023,00:30,Thunderstorms,17
+Uppsala,Sunday,05-03-2023,01:00,Sunny,24
+Uppsala,Sunday,05-03-2023,01:30,Rainy,11
+Uppsala,Sunday,05-03-2023,02:00,Cloudy,15
+Uppsala,Sunday,05-03-2023,02:30,Rainy,9
+Uppsala,Sunday,05-03-2023,03:00,Thunderstorms,7
+Uppsala,Sunday,05-03-2023,03:30,Rainy,8
+Uppsala,Sunday,05-03-2023,04:00,Rainy,6
+Uppsala,Sunday,05-03-2023,04:30,Partly Cloudy,14
+Uppsala,Sunday,05-03-2023,05:00,Thunderstorms,9
+Uppsala,Sunday,05-03-2023,05:30,Thunderstorms,20
+Uppsala,Sunday,05-03-2023,06:00,Rainy,12
+Uppsala,Sunday,05-03-2023,06:30,Partly Cloudy,25
+Uppsala,Sunday,05-03-2023,07:00,Cloudy,15
+Uppsala,Sunday,05-03-2023,07:30,Thunderstorms,11
+Uppsala,Sunday,05-03-2023,08:00,Partly Cloudy,24
+Uppsala,Sunday,05-03-2023,08:30,Rainy,14
+Uppsala,Sunday,05-03-2023,09:00,Partly Cloudy,23
+Uppsala,Sunday,05-03-2023,09:30,Thunderstorms,16
+Uppsala,Sunday,05-03-2023,10:00,Rainy,13
+Uppsala,Sunday,05-03-2023,10:30,Sunny,26
+Uppsala,Sunday,05-03-2023,11:00,Cloudy,19
+Uppsala,Sunday,05-03-2023,11:30,Partly Cloudy,22
+Uppsala,Sunday,05-03-2023,12:00,Partly Cloudy,17
+Uppsala,Sunday,05-03-2023,12:30,Partly Cloudy,22
+Uppsala,Sunday,05-03-2023,13:00,Sunny,22
+Uppsala,Sunday,05-03-2023,13:30,Sunny,27
+Uppsala,Sunday,05-03-2023,14:00,Thunderstorms,12
+Uppsala,Sunday,05-03-2023,14:30,Partly Cloudy,19
+Uppsala,Sunday,05-03-2023,15:00,Sunny,21
+Uppsala,Sunday,05-03-2023,15:30,Sunny,21
+Uppsala,Sunday,05-03-2023,16:00,Partly Cloudy,22
+Uppsala,Sunday,05-03-2023,16:30,Partly Cloudy,23
+Uppsala,Sunday,05-03-2023,17:00,Thunderstorms,13
+Uppsala,Sunday,05-03-2023,17:30,Thunderstorms,14
+Uppsala,Sunday,05-03-2023,18:00,Cloudy,16
+Uppsala,Sunday,05-03-2023,18:30,Sunny,31
+Uppsala,Sunday,05-03-2023,19:00,Rainy,9
+Uppsala,Sunday,05-03-2023,19:30,Thunderstorms,9
+Uppsala,Sunday,05-03-2023,20:00,Rainy,13
+Uppsala,Sunday,05-03-2023,20:30,Rainy,7
+Uppsala,Sunday,05-03-2023,21:00,Cloudy,12
+Uppsala,Sunday,05-03-2023,21:30,Thunderstorms,11
+Uppsala,Sunday,05-03-2023,22:00,Rainy,14
+Uppsala,Sunday,05-03-2023,22:30,Cloudy,21
+Uppsala,Sunday,05-03-2023,23:00,Partly Cloudy,22
+Uppsala,Sunday,05-03-2023,23:30,Cloudy,13
+Uppsala,Monday,06-03-2023,00:00,Partly Cloudy,19
+Uppsala,Monday,06-03-2023,00:30,Cloudy,9
+Uppsala,Monday,06-03-2023,01:00,Cloudy,17
+Uppsala,Monday,06-03-2023,01:30,Partly Cloudy,22
+Uppsala,Monday,06-03-2023,02:00,Partly Cloudy,15
+Uppsala,Monday,06-03-2023,02:30,Cloudy,10
+Uppsala,Monday,06-03-2023,03:00,Partly Cloudy,16
+Uppsala,Monday,06-03-2023,03:30,Thunderstorms,15
+Uppsala,Monday,06-03-2023,04:00,Sunny,30
+Uppsala,Monday,06-03-2023,04:30,Sunny,31
+Uppsala,Monday,06-03-2023,05:00,Rainy,6
+Uppsala,Monday,06-03-2023,05:30,Thunderstorms,6
+Uppsala,Monday,06-03-2023,06:00,Rainy,15
+Uppsala,Monday,06-03-2023,06:30,Partly Cloudy,18
+Uppsala,Monday,06-03-2023,07:00,Rainy,13
+Uppsala,Monday,06-03-2023,07:30,Sunny,24
+Uppsala,Monday,06-03-2023,08:00,Sunny,18
+Uppsala,Monday,06-03-2023,08:30,Cloudy,22
+Uppsala,Monday,06-03-2023,09:00,Sunny,22
+Uppsala,Monday,06-03-2023,09:30,Thunderstorms,16
+Uppsala,Monday,06-03-2023,10:00,Cloudy,16
+Uppsala,Monday,06-03-2023,10:30,Thunderstorms,17
+Uppsala,Monday,06-03-2023,11:00,Partly Cloudy,22
+Uppsala,Monday,06-03-2023,11:30,Rainy,6
+Uppsala,Monday,06-03-2023,12:00,Partly Cloudy,22
+Uppsala,Monday,06-03-2023,12:30,Partly Cloudy,24
+Uppsala,Monday,06-03-2023,13:00,Thunderstorms,18
+Uppsala,Monday,06-03-2023,13:30,Thunderstorms,8
+Uppsala,Monday,06-03-2023,14:00,Sunny,21
+Uppsala,Monday,06-03-2023,14:30,Rainy,7
+Uppsala,Monday,06-03-2023,15:00,Cloudy,14
+Uppsala,Monday,06-03-2023,15:30,Sunny,23
+Uppsala,Monday,06-03-2023,16:00,Thunderstorms,13
+Uppsala,Monday,06-03-2023,16:30,Cloudy,20
+Uppsala,Monday,06-03-2023,17:00,Cloudy,11
+Uppsala,Monday,06-03-2023,17:30,Rainy,14
+Uppsala,Monday,06-03-2023,18:00,Thunderstorms,11
+Uppsala,Monday,06-03-2023,18:30,Cloudy,12
+Uppsala,Monday,06-03-2023,19:00,Thunderstorms,7
+Uppsala,Monday,06-03-2023,19:30,Sunny,21
+Uppsala,Monday,06-03-2023,20:00,Rainy,8
+Uppsala,Monday,06-03-2023,20:30,Sunny,19
+Uppsala,Monday,06-03-2023,21:00,Partly Cloudy,25
+Uppsala,Monday,06-03-2023,21:30,Partly Cloudy,12
+Uppsala,Monday,06-03-2023,22:00,Rainy,18
+Uppsala,Monday,06-03-2023,22:30,Thunderstorms,11
+Uppsala,Monday,06-03-2023,23:00,Rainy,7
+Uppsala,Monday,06-03-2023,23:30,Cloudy,7
+Uppsala,Tuesday,07-03-2023,00:00,Cloudy,13
+Uppsala,Tuesday,07-03-2023,00:30,Thunderstorms,12
+Uppsala,Tuesday,07-03-2023,01:00,Rainy,7
+Uppsala,Tuesday,07-03-2023,01:30,Partly Cloudy,14
+Uppsala,Tuesday,07-03-2023,02:00,Cloudy,16
+Uppsala,Tuesday,07-03-2023,02:30,Sunny,19
+Uppsala,Tuesday,07-03-2023,03:00,Partly Cloudy,23
+Uppsala,Tuesday,07-03-2023,03:30,Partly Cloudy,22
+Uppsala,Tuesday,07-03-2023,04:00,Sunny,17
+Uppsala,Tuesday,07-03-2023,04:30,Thunderstorms,18
+Uppsala,Tuesday,07-03-2023,05:00,Sunny,21
+Uppsala,Tuesday,07-03-2023,05:30,Partly Cloudy,17
+Uppsala,Tuesday,07-03-2023,06:00,Cloudy,12
+Uppsala,Tuesday,07-03-2023,06:30,Thunderstorms,14
+Uppsala,Tuesday,07-03-2023,07:00,Thunderstorms,15
+Uppsala,Tuesday,07-03-2023,07:30,Sunny,33
+Uppsala,Tuesday,07-03-2023,08:00,Cloudy,7
+Uppsala,Tuesday,07-03-2023,08:30,Thunderstorms,12
+Uppsala,Tuesday,07-03-2023,09:00,Rainy,12
+Uppsala,Tuesday,07-03-2023,09:30,Rainy,7
+Uppsala,Tuesday,07-03-2023,10:00,Cloudy,16
+Uppsala,Tuesday,07-03-2023,10:30,Cloudy,13
+Uppsala,Tuesday,07-03-2023,11:00,Partly Cloudy,23
+Uppsala,Tuesday,07-03-2023,11:30,Sunny,29
+Uppsala,Tuesday,07-03-2023,12:00,Thunderstorms,16
+Uppsala,Tuesday,07-03-2023,12:30,Cloudy,14
+Uppsala,Tuesday,07-03-2023,13:00,Partly Cloudy,15
+Uppsala,Tuesday,07-03-2023,13:30,Rainy,15
+Uppsala,Tuesday,07-03-2023,14:00,Rainy,9
+Uppsala,Tuesday,07-03-2023,14:30,Cloudy,17
+Uppsala,Tuesday,07-03-2023,15:00,Cloudy,15
+Uppsala,Tuesday,07-03-2023,15:30,Cloudy,10
+Uppsala,Tuesday,07-03-2023,16:00,Partly Cloudy,23
+Uppsala,Tuesday,07-03-2023,16:30,Sunny,22
+Uppsala,Tuesday,07-03-2023,17:00,Rainy,12
+Uppsala,Tuesday,07-03-2023,17:30,Sunny,25
+Uppsala,Tuesday,07-03-2023,18:00,Partly Cloudy,20
+Uppsala,Tuesday,07-03-2023,18:30,Thunderstorms,7
+Uppsala,Tuesday,07-03-2023,19:00,Sunny,23
+Uppsala,Tuesday,07-03-2023,19:30,Thunderstorms,16
+Uppsala,Tuesday,07-03-2023,20:00,Partly Cloudy,17
+Uppsala,Tuesday,07-03-2023,20:30,Thunderstorms,16
+Uppsala,Tuesday,07-03-2023,21:00,Rainy,16
+Uppsala,Tuesday,07-03-2023,21:30,Cloudy,22
+Uppsala,Tuesday,07-03-2023,22:00,Rainy,16
+Uppsala,Tuesday,07-03-2023,22:30,Rainy,11
+Uppsala,Tuesday,07-03-2023,23:00,Cloudy,15
+Uppsala,Tuesday,07-03-2023,23:30,Sunny,22
+Uppsala,Wednesday,08-03-2023,00:00,Thunderstorms,11
+Uppsala,Wednesday,08-03-2023,00:30,Thunderstorms,17
+Uppsala,Wednesday,08-03-2023,01:00,Rainy,8
+Uppsala,Wednesday,08-03-2023,01:30,Rainy,8
+Uppsala,Wednesday,08-03-2023,02:00,Rainy,13
+Uppsala,Wednesday,08-03-2023,02:30,Partly Cloudy,22
+Uppsala,Wednesday,08-03-2023,03:00,Thunderstorms,17
+Uppsala,Wednesday,08-03-2023,03:30,Sunny,28
+Uppsala,Wednesday,08-03-2023,04:00,Cloudy,20
+Uppsala,Wednesday,08-03-2023,04:30,Cloudy,18
+Uppsala,Wednesday,08-03-2023,05:00,Partly Cloudy,17
+Uppsala,Wednesday,08-03-2023,05:30,Cloudy,19
+Uppsala,Wednesday,08-03-2023,06:00,Thunderstorms,15
+Uppsala,Wednesday,08-03-2023,06:30,Cloudy,8
+Uppsala,Wednesday,08-03-2023,07:00,Thunderstorms,9
+Uppsala,Wednesday,08-03-2023,07:30,Sunny,30
+Uppsala,Wednesday,08-03-2023,08:00,Rainy,11
+Uppsala,Wednesday,08-03-2023,08:30,Partly Cloudy,23
+Uppsala,Wednesday,08-03-2023,09:00,Rainy,11
+Uppsala,Wednesday,08-03-2023,09:30,Partly Cloudy,17
+Uppsala,Wednesday,08-03-2023,10:00,Thunderstorms,10
+Uppsala,Wednesday,08-03-2023,10:30,Thunderstorms,13
+Uppsala,Wednesday,08-03-2023,11:00,Cloudy,17
+Uppsala,Wednesday,08-03-2023,11:30,Thunderstorms,13
+Uppsala,Wednesday,08-03-2023,12:00,Sunny,31
+Uppsala,Wednesday,08-03-2023,12:30,Sunny,30
+Uppsala,Wednesday,08-03-2023,13:00,Rainy,4
+Uppsala,Wednesday,08-03-2023,13:30,Rainy,5
+Uppsala,Wednesday,08-03-2023,14:00,Rainy,9
+Uppsala,Wednesday,08-03-2023,14:30,Thunderstorms,9
+Uppsala,Wednesday,08-03-2023,15:00,Sunny,26
+Uppsala,Wednesday,08-03-2023,15:30,Cloudy,14
+Uppsala,Wednesday,08-03-2023,16:00,Cloudy,19
+Uppsala,Wednesday,08-03-2023,16:30,Rainy,9
+Uppsala,Wednesday,08-03-2023,17:00,Partly Cloudy,18
+Uppsala,Wednesday,08-03-2023,17:30,Partly Cloudy,13
+Uppsala,Wednesday,08-03-2023,18:00,Sunny,27
+Uppsala,Wednesday,08-03-2023,18:30,Sunny,22
+Uppsala,Wednesday,08-03-2023,19:00,Cloudy,14
+Uppsala,Wednesday,08-03-2023,19:30,Partly Cloudy,26
+Uppsala,Wednesday,08-03-2023,20:00,Partly Cloudy,22
+Uppsala,Wednesday,08-03-2023,20:30,Cloudy,17
+Uppsala,Wednesday,08-03-2023,21:00,Rainy,10
+Uppsala,Wednesday,08-03-2023,21:30,Sunny,20
+Uppsala,Wednesday,08-03-2023,22:00,Sunny,16
+Uppsala,Wednesday,08-03-2023,22:30,Cloudy,21
+Uppsala,Wednesday,08-03-2023,23:00,Sunny,25
+Uppsala,Wednesday,08-03-2023,23:30,Partly Cloudy,22
+Uppsala,Thursday,09-03-2023,00:00,Sunny,26
+Uppsala,Thursday,09-03-2023,00:30,Rainy,9
+Uppsala,Thursday,09-03-2023,01:00,Partly Cloudy,22
+Uppsala,Thursday,09-03-2023,01:30,Partly Cloudy,17
+Uppsala,Thursday,09-03-2023,02:00,Cloudy,22
+Uppsala,Thursday,09-03-2023,02:30,Sunny,23
+Uppsala,Thursday,09-03-2023,03:00,Thunderstorms,10
+Uppsala,Thursday,09-03-2023,03:30,Partly Cloudy,16
+Uppsala,Thursday,09-03-2023,04:00,Thunderstorms,7
+Uppsala,Thursday,09-03-2023,04:30,Partly Cloudy,21
+Uppsala,Thursday,09-03-2023,05:00,Rainy,5
+Uppsala,Thursday,09-03-2023,05:30,Sunny,32
+Uppsala,Thursday,09-03-2023,06:00,Thunderstorms,16
+Uppsala,Thursday,09-03-2023,06:30,Cloudy,14
+Uppsala,Thursday,09-03-2023,07:00,Rainy,9
+Uppsala,Thursday,09-03-2023,07:30,Thunderstorms,15
+Uppsala,Thursday,09-03-2023,08:00,Thunderstorms,13
+Uppsala,Thursday,09-03-2023,08:30,Cloudy,18
+Uppsala,Thursday,09-03-2023,09:00,Cloudy,12
+Uppsala,Thursday,09-03-2023,09:30,Partly Cloudy,24
+Uppsala,Thursday,09-03-2023,10:00,Rainy,12
+Uppsala,Thursday,09-03-2023,10:30,Partly Cloudy,22
+Uppsala,Thursday,09-03-2023,11:00,Cloudy,23
+Uppsala,Thursday,09-03-2023,11:30,Cloudy,19
+Uppsala,Thursday,09-03-2023,12:00,Sunny,24
+Uppsala,Thursday,09-03-2023,12:30,Partly Cloudy,20
+Uppsala,Thursday,09-03-2023,13:00,Partly Cloudy,20
+Uppsala,Thursday,09-03-2023,13:30,Rainy,11
+Uppsala,Thursday,09-03-2023,14:00,Rainy,8
+Uppsala,Thursday,09-03-2023,14:30,Sunny,27
+Uppsala,Thursday,09-03-2023,15:00,Partly Cloudy,15
+Uppsala,Thursday,09-03-2023,15:30,Sunny,22
+Uppsala,Thursday,09-03-2023,16:00,Thunderstorms,8
+Uppsala,Thursday,09-03-2023,16:30,Sunny,19
+Uppsala,Thursday,09-03-2023,17:00,Partly Cloudy,19
+Uppsala,Thursday,09-03-2023,17:30,Rainy,15
+Uppsala,Thursday,09-03-2023,18:00,Thunderstorms,19
+Uppsala,Thursday,09-03-2023,18:30,Cloudy,15
+Uppsala,Thursday,09-03-2023,19:00,Partly Cloudy,20
+Uppsala,Thursday,09-03-2023,19:30,Partly Cloudy,19
+Uppsala,Thursday,09-03-2023,20:00,Thunderstorms,11
+Uppsala,Thursday,09-03-2023,20:30,Cloudy,11
+Uppsala,Thursday,09-03-2023,21:00,Cloudy,12
+Uppsala,Thursday,09-03-2023,21:30,Sunny,19
+Uppsala,Thursday,09-03-2023,22:00,Sunny,22
+Uppsala,Thursday,09-03-2023,22:30,Sunny,21
+Uppsala,Thursday,09-03-2023,23:00,Rainy,15
+Uppsala,Thursday,09-03-2023,23:30,Sunny,18
+Uppsala,Friday,10-03-2023,00:00,Cloudy,20
+Uppsala,Friday,10-03-2023,00:30,Partly Cloudy,21
+Uppsala,Friday,10-03-2023,01:00,Sunny,26
+Uppsala,Friday,10-03-2023,01:30,Rainy,10
+Uppsala,Friday,10-03-2023,02:00,Rainy,6
+Uppsala,Friday,10-03-2023,02:30,Rainy,13
+Uppsala,Friday,10-03-2023,03:00,Thunderstorms,10
+Uppsala,Friday,10-03-2023,03:30,Partly Cloudy,16
+Uppsala,Friday,10-03-2023,04:00,Rainy,7
+Uppsala,Friday,10-03-2023,04:30,Rainy,14
+Uppsala,Friday,10-03-2023,05:00,Rainy,8
+Uppsala,Friday,10-03-2023,05:30,Rainy,14
+Uppsala,Friday,10-03-2023,06:00,Sunny,27
+Uppsala,Friday,10-03-2023,06:30,Sunny,19
+Uppsala,Friday,10-03-2023,07:00,Partly Cloudy,23
+Uppsala,Friday,10-03-2023,07:30,Thunderstorms,13
+Uppsala,Friday,10-03-2023,08:00,Rainy,9
+Uppsala,Friday,10-03-2023,08:30,Cloudy,17
+Uppsala,Friday,10-03-2023,09:00,Sunny,24
+Uppsala,Friday,10-03-2023,09:30,Cloudy,20
+Uppsala,Friday,10-03-2023,10:00,Sunny,21
+Uppsala,Friday,10-03-2023,10:30,Sunny,25
+Uppsala,Friday,10-03-2023,11:00,Thunderstorms,18
+Uppsala,Friday,10-03-2023,11:30,Partly Cloudy,22
+Uppsala,Friday,10-03-2023,12:00,Sunny,25
+Uppsala,Friday,10-03-2023,12:30,Sunny,28
+Uppsala,Friday,10-03-2023,13:00,Sunny,29
+Uppsala,Friday,10-03-2023,13:30,Sunny,29
+Uppsala,Friday,10-03-2023,14:00,Rainy,11
+Uppsala,Friday,10-03-2023,14:30,Rainy,14
+Uppsala,Friday,10-03-2023,15:00,Thunderstorms,12
+Uppsala,Friday,10-03-2023,15:30,Cloudy,16
+Uppsala,Friday,10-03-2023,16:00,Partly Cloudy,23
+Uppsala,Friday,10-03-2023,16:30,Rainy,7
+Uppsala,Friday,10-03-2023,17:00,Thunderstorms,11
+Uppsala,Friday,10-03-2023,17:30,Cloudy,15
+Uppsala,Friday,10-03-2023,18:00,Rainy,17
+Uppsala,Friday,10-03-2023,18:30,Partly Cloudy,27
+Uppsala,Friday,10-03-2023,19:00,Partly Cloudy,18
+Uppsala,Friday,10-03-2023,19:30,Partly Cloudy,17
+Uppsala,Friday,10-03-2023,20:00,Rainy,11
+Uppsala,Friday,10-03-2023,20:30,Cloudy,16
+Uppsala,Friday,10-03-2023,21:00,Cloudy,13
+Uppsala,Friday,10-03-2023,21:30,Sunny,31
+Uppsala,Friday,10-03-2023,22:00,Thunderstorms,12
+Uppsala,Friday,10-03-2023,22:30,Cloudy,17
+Uppsala,Friday,10-03-2023,23:00,Rainy,2
+Uppsala,Friday,10-03-2023,23:30,Cloudy,16
+Lund,Saturday,04-03-2023,00:00,Cloudy,16
+Lund,Saturday,04-03-2023,00:30,Rainy,12
+Lund,Saturday,04-03-2023,01:00,Rainy,10
+Lund,Saturday,04-03-2023,01:30,Thunderstorms,5
+Lund,Saturday,04-03-2023,02:00,Cloudy,14
+Lund,Saturday,04-03-2023,02:30,Rainy,10
+Lund,Saturday,04-03-2023,03:00,Sunny,21
+Lund,Saturday,04-03-2023,03:30,Cloudy,13
+Lund,Saturday,04-03-2023,04:00,Thunderstorms,12
+Lund,Saturday,04-03-2023,04:30,Partly Cloudy,19
+Lund,Saturday,04-03-2023,05:00,Sunny,19
+Lund,Saturday,04-03-2023,05:30,Rainy,11
+Lund,Saturday,04-03-2023,06:00,Sunny,18
+Lund,Saturday,04-03-2023,06:30,Cloudy,15
+Lund,Saturday,04-03-2023,07:00,Thunderstorms,10
+Lund,Saturday,04-03-2023,07:30,Rainy,7
+Lund,Saturday,04-03-2023,08:00,Partly Cloudy,22
+Lund,Saturday,04-03-2023,08:30,Thunderstorms,18
+Lund,Saturday,04-03-2023,09:00,Sunny,30
+Lund,Saturday,04-03-2023,09:30,Cloudy,13
+Lund,Saturday,04-03-2023,10:00,Thunderstorms,18
+Lund,Saturday,04-03-2023,10:30,Cloudy,12
+Lund,Saturday,04-03-2023,11:00,Thunderstorms,11
+Lund,Saturday,04-03-2023,11:30,Rainy,12
+Lund,Saturday,04-03-2023,12:00,Thunderstorms,8
+Lund,Saturday,04-03-2023,12:30,Sunny,21
+Lund,Saturday,04-03-2023,13:00,Rainy,10
+Lund,Saturday,04-03-2023,13:30,Rainy,18
+Lund,Saturday,04-03-2023,14:00,Sunny,25
+Lund,Saturday,04-03-2023,14:30,Sunny,23
+Lund,Saturday,04-03-2023,15:00,Partly Cloudy,21
+Lund,Saturday,04-03-2023,15:30,Cloudy,13
+Lund,Saturday,04-03-2023,16:00,Sunny,23
+Lund,Saturday,04-03-2023,16:30,Rainy,10
+Lund,Saturday,04-03-2023,17:00,Partly Cloudy,20
+Lund,Saturday,04-03-2023,17:30,Sunny,26
+Lund,Saturday,04-03-2023,18:00,Sunny,29
+Lund,Saturday,04-03-2023,18:30,Thunderstorms,15
+Lund,Saturday,04-03-2023,19:00,Rainy,9
+Lund,Saturday,04-03-2023,19:30,Sunny,24
+Lund,Saturday,04-03-2023,20:00,Sunny,21
+Lund,Saturday,04-03-2023,20:30,Rainy,12
+Lund,Saturday,04-03-2023,21:00,Thunderstorms,6
+Lund,Saturday,04-03-2023,21:30,Sunny,26
+Lund,Saturday,04-03-2023,22:00,Cloudy,21
+Lund,Saturday,04-03-2023,22:30,Partly Cloudy,22
+Lund,Saturday,04-03-2023,23:00,Rainy,11
+Lund,Saturday,04-03-2023,23:30,Cloudy,16
+Lund,Sunday,05-03-2023,00:00,Thunderstorms,18
+Lund,Sunday,05-03-2023,00:30,Partly Cloudy,20
+Lund,Sunday,05-03-2023,01:00,Cloudy,10
+Lund,Sunday,05-03-2023,01:30,Partly Cloudy,17
+Lund,Sunday,05-03-2023,02:00,Partly Cloudy,13
+Lund,Sunday,05-03-2023,02:30,Cloudy,16
+Lund,Sunday,05-03-2023,03:00,Thunderstorms,13
+Lund,Sunday,05-03-2023,03:30,Sunny,22
+Lund,Sunday,05-03-2023,04:00,Cloudy,20
+Lund,Sunday,05-03-2023,04:30,Cloudy,23
+Lund,Sunday,05-03-2023,05:00,Cloudy,18
+Lund,Sunday,05-03-2023,05:30,Rainy,4
+Lund,Sunday,05-03-2023,06:00,Sunny,24
+Lund,Sunday,05-03-2023,06:30,Sunny,30
+Lund,Sunday,05-03-2023,07:00,Rainy,10
+Lund,Sunday,05-03-2023,07:30,Rainy,17
+Lund,Sunday,05-03-2023,08:00,Sunny,31
+Lund,Sunday,05-03-2023,08:30,Thunderstorms,19
+Lund,Sunday,05-03-2023,09:00,Partly Cloudy,12
+Lund,Sunday,05-03-2023,09:30,Rainy,13
+Lund,Sunday,05-03-2023,10:00,Sunny,23
+Lund,Sunday,05-03-2023,10:30,Cloudy,22
+Lund,Sunday,05-03-2023,11:00,Thunderstorms,13
+Lund,Sunday,05-03-2023,11:30,Cloudy,16
+Lund,Sunday,05-03-2023,12:00,Partly Cloudy,19
+Lund,Sunday,05-03-2023,12:30,Sunny,28
+Lund,Sunday,05-03-2023,13:00,Rainy,14
+Lund,Sunday,05-03-2023,13:30,Cloudy,18
+Lund,Sunday,05-03-2023,14:00,Sunny,28
+Lund,Sunday,05-03-2023,14:30,Partly Cloudy,16
+Lund,Sunday,05-03-2023,15:00,Sunny,32
+Lund,Sunday,05-03-2023,15:30,Thunderstorms,12
+Lund,Sunday,05-03-2023,16:00,Thunderstorms,13
+Lund,Sunday,05-03-2023,16:30,Partly Cloudy,23
+Lund,Sunday,05-03-2023,17:00,Cloudy,13
+Lund,Sunday,05-03-2023,17:30,Rainy,12
+Lund,Sunday,05-03-2023,18:00,Partly Cloudy,24
+Lund,Sunday,05-03-2023,18:30,Thunderstorms,10
+Lund,Sunday,05-03-2023,19:00,Cloudy,8
+Lund,Sunday,05-03-2023,19:30,Partly Cloudy,20
+Lund,Sunday,05-03-2023,20:00,Partly Cloudy,19
+Lund,Sunday,05-03-2023,20:30,Sunny,20
+Lund,Sunday,05-03-2023,21:00,Partly Cloudy,22
+Lund,Sunday,05-03-2023,21:30,Thunderstorms,11
+Lund,Sunday,05-03-2023,22:00,Rainy,3
+Lund,Sunday,05-03-2023,22:30,Sunny,29
+Lund,Sunday,05-03-2023,23:00,Thunderstorms,14
+Lund,Sunday,05-03-2023,23:30,Cloudy,17
+Lund,Monday,06-03-2023,00:00,Cloudy,15
+Lund,Monday,06-03-2023,00:30,Sunny,22
+Lund,Monday,06-03-2023,01:00,Sunny,29
+Lund,Monday,06-03-2023,01:30,Thunderstorms,21
+Lund,Monday,06-03-2023,02:00,Sunny,20
+Lund,Monday,06-03-2023,02:30,Partly Cloudy,24
+Lund,Monday,06-03-2023,03:00,Rainy,8
+Lund,Monday,06-03-2023,03:30,Rainy,6
+Lund,Monday,06-03-2023,04:00,Rainy,11
+Lund,Monday,06-03-2023,04:30,Cloudy,9
+Lund,Monday,06-03-2023,05:00,Cloudy,17
+Lund,Monday,06-03-2023,05:30,Rainy,6
+Lund,Monday,06-03-2023,06:00,Partly Cloudy,21
+Lund,Monday,06-03-2023,06:30,Cloudy,12
+Lund,Monday,06-03-2023,07:00,Thunderstorms,17
+Lund,Monday,06-03-2023,07:30,Sunny,31
+Lund,Monday,06-03-2023,08:00,Cloudy,7
+Lund,Monday,06-03-2023,08:30,Cloudy,19
+Lund,Monday,06-03-2023,09:00,Thunderstorms,9
+Lund,Monday,06-03-2023,09:30,Thunderstorms,14
+Lund,Monday,06-03-2023,10:00,Cloudy,12
+Lund,Monday,06-03-2023,10:30,Thunderstorms,7
+Lund,Monday,06-03-2023,11:00,Thunderstorms,18
+Lund,Monday,06-03-2023,11:30,Cloudy,13
+Lund,Monday,06-03-2023,12:00,Thunderstorms,8
+Lund,Monday,06-03-2023,12:30,Partly Cloudy,25
+Lund,Monday,06-03-2023,13:00,Thunderstorms,11
+Lund,Monday,06-03-2023,13:30,Partly Cloudy,19
+Lund,Monday,06-03-2023,14:00,Partly Cloudy,18
+Lund,Monday,06-03-2023,14:30,Rainy,15
+Lund,Monday,06-03-2023,15:00,Thunderstorms,17
+Lund,Monday,06-03-2023,15:30,Cloudy,16
+Lund,Monday,06-03-2023,16:00,Partly Cloudy,19
+Lund,Monday,06-03-2023,16:30,Rainy,11
+Lund,Monday,06-03-2023,17:00,Rainy,12
+Lund,Monday,06-03-2023,17:30,Partly Cloudy,15
+Lund,Monday,06-03-2023,18:00,Rainy,13
+Lund,Monday,06-03-2023,18:30,Cloudy,16
+Lund,Monday,06-03-2023,19:00,Cloudy,21
+Lund,Monday,06-03-2023,19:30,Thunderstorms,11
+Lund,Monday,06-03-2023,20:00,Thunderstorms,11
+Lund,Monday,06-03-2023,20:30,Sunny,15
+Lund,Monday,06-03-2023,21:00,Thunderstorms,19
+Lund,Monday,06-03-2023,21:30,Partly Cloudy,16
+Lund,Monday,06-03-2023,22:00,Sunny,19
+Lund,Monday,06-03-2023,22:30,Partly Cloudy,25
+Lund,Monday,06-03-2023,23:00,Thunderstorms,9
+Lund,Monday,06-03-2023,23:30,Cloudy,11
+Lund,Tuesday,07-03-2023,00:00,Sunny,31
+Lund,Tuesday,07-03-2023,00:30,Thunderstorms,13
+Lund,Tuesday,07-03-2023,01:00,Rainy,9
+Lund,Tuesday,07-03-2023,01:30,Cloudy,10
+Lund,Tuesday,07-03-2023,02:00,Rainy,5
+Lund,Tuesday,07-03-2023,02:30,Rainy,4
+Lund,Tuesday,07-03-2023,03:00,Partly Cloudy,18
+Lund,Tuesday,07-03-2023,03:30,Cloudy,18
+Lund,Tuesday,07-03-2023,04:00,Rainy,6
+Lund,Tuesday,07-03-2023,04:30,Sunny,26
+Lund,Tuesday,07-03-2023,05:00,Cloudy,19
+Lund,Tuesday,07-03-2023,05:30,Cloudy,19
+Lund,Tuesday,07-03-2023,06:00,Partly Cloudy,19
+Lund,Tuesday,07-03-2023,06:30,Partly Cloudy,16
+Lund,Tuesday,07-03-2023,07:00,Rainy,13
+Lund,Tuesday,07-03-2023,07:30,Cloudy,17
+Lund,Tuesday,07-03-2023,08:00,Rainy,11
+Lund,Tuesday,07-03-2023,08:30,Rainy,6
+Lund,Tuesday,07-03-2023,09:00,Rainy,8
+Lund,Tuesday,07-03-2023,09:30,Rainy,13
+Lund,Tuesday,07-03-2023,10:00,Cloudy,13
+Lund,Tuesday,07-03-2023,10:30,Cloudy,15
+Lund,Tuesday,07-03-2023,11:00,Rainy,3
+Lund,Tuesday,07-03-2023,11:30,Rainy,2
+Lund,Tuesday,07-03-2023,12:00,Rainy,13
+Lund,Tuesday,07-03-2023,12:30,Thunderstorms,18
+Lund,Tuesday,07-03-2023,13:00,Cloudy,22
+Lund,Tuesday,07-03-2023,13:30,Cloudy,11
+Lund,Tuesday,07-03-2023,14:00,Thunderstorms,6
+Lund,Tuesday,07-03-2023,14:30,Rainy,8
+Lund,Tuesday,07-03-2023,15:00,Cloudy,19
+Lund,Tuesday,07-03-2023,15:30,Rainy,5
+Lund,Tuesday,07-03-2023,16:00,Sunny,24
+Lund,Tuesday,07-03-2023,16:30,Partly Cloudy,13
+Lund,Tuesday,07-03-2023,17:00,Thunderstorms,11
+Lund,Tuesday,07-03-2023,17:30,Thunderstorms,21
+Lund,Tuesday,07-03-2023,18:00,Rainy,13
+Lund,Tuesday,07-03-2023,18:30,Partly Cloudy,25
+Lund,Tuesday,07-03-2023,19:00,Rainy,11
+Lund,Tuesday,07-03-2023,19:30,Rainy,7
+Lund,Tuesday,07-03-2023,20:00,Rainy,14
+Lund,Tuesday,07-03-2023,20:30,Rainy,12
+Lund,Tuesday,07-03-2023,21:00,Thunderstorms,15
+Lund,Tuesday,07-03-2023,21:30,Cloudy,16
+Lund,Tuesday,07-03-2023,22:00,Rainy,14
+Lund,Tuesday,07-03-2023,22:30,Rainy,17
+Lund,Tuesday,07-03-2023,23:00,Partly Cloudy,27
+Lund,Tuesday,07-03-2023,23:30,Rainy,6
+Lund,Wednesday,08-03-2023,00:00,Rainy,8
+Lund,Wednesday,08-03-2023,00:30,Cloudy,16
+Lund,Wednesday,08-03-2023,01:00,Cloudy,14
+Lund,Wednesday,08-03-2023,01:30,Thunderstorms,14
+Lund,Wednesday,08-03-2023,02:00,Cloudy,15
+Lund,Wednesday,08-03-2023,02:30,Rainy,18
+Lund,Wednesday,08-03-2023,03:00,Partly Cloudy,26
+Lund,Wednesday,08-03-2023,03:30,Sunny,25
+Lund,Wednesday,08-03-2023,04:00,Rainy,16
+Lund,Wednesday,08-03-2023,04:30,Cloudy,13
+Lund,Wednesday,08-03-2023,05:00,Sunny,28
+Lund,Wednesday,08-03-2023,05:30,Thunderstorms,15
+Lund,Wednesday,08-03-2023,06:00,Sunny,20
+Lund,Wednesday,08-03-2023,06:30,Cloudy,16
+Lund,Wednesday,08-03-2023,07:00,Thunderstorms,8
+Lund,Wednesday,08-03-2023,07:30,Sunny,19
+Lund,Wednesday,08-03-2023,08:00,Sunny,25
+Lund,Wednesday,08-03-2023,08:30,Cloudy,14
+Lund,Wednesday,08-03-2023,09:00,Thunderstorms,18
+Lund,Wednesday,08-03-2023,09:30,Sunny,22
+Lund,Wednesday,08-03-2023,10:00,Partly Cloudy,24
+Lund,Wednesday,08-03-2023,10:30,Partly Cloudy,25
+Lund,Wednesday,08-03-2023,11:00,Partly Cloudy,22
+Lund,Wednesday,08-03-2023,11:30,Cloudy,11
+Lund,Wednesday,08-03-2023,12:00,Cloudy,22
+Lund,Wednesday,08-03-2023,12:30,Rainy,8
+Lund,Wednesday,08-03-2023,13:00,Sunny,29
+Lund,Wednesday,08-03-2023,13:30,Sunny,23
+Lund,Wednesday,08-03-2023,14:00,Thunderstorms,12
+Lund,Wednesday,08-03-2023,14:30,Thunderstorms,13
+Lund,Wednesday,08-03-2023,15:00,Cloudy,20
+Lund,Wednesday,08-03-2023,15:30,Rainy,13
+Lund,Wednesday,08-03-2023,16:00,Partly Cloudy,18
+Lund,Wednesday,08-03-2023,16:30,Rainy,14
+Lund,Wednesday,08-03-2023,17:00,Rainy,15
+Lund,Wednesday,08-03-2023,17:30,Sunny,27
+Lund,Wednesday,08-03-2023,18:00,Cloudy,10
+Lund,Wednesday,08-03-2023,18:30,Thunderstorms,14
+Lund,Wednesday,08-03-2023,19:00,Partly Cloudy,19
+Lund,Wednesday,08-03-2023,19:30,Cloudy,12
+Lund,Wednesday,08-03-2023,20:00,Sunny,23
+Lund,Wednesday,08-03-2023,20:30,Rainy,10
+Lund,Wednesday,08-03-2023,21:00,Rainy,15
+Lund,Wednesday,08-03-2023,21:30,Partly Cloudy,13
+Lund,Wednesday,08-03-2023,22:00,Cloudy,12
+Lund,Wednesday,08-03-2023,22:30,Rainy,4
+Lund,Wednesday,08-03-2023,23:00,Sunny,25
+Lund,Wednesday,08-03-2023,23:30,Rainy,11
+Lund,Thursday,09-03-2023,00:00,Thunderstorms,9
+Lund,Thursday,09-03-2023,00:30,Rainy,14
+Lund,Thursday,09-03-2023,01:00,Thunderstorms,18
+Lund,Thursday,09-03-2023,01:30,Rainy,11
+Lund,Thursday,09-03-2023,02:00,Cloudy,15
+Lund,Thursday,09-03-2023,02:30,Rainy,13
+Lund,Thursday,09-03-2023,03:00,Sunny,25
+Lund,Thursday,09-03-2023,03:30,Sunny,19
+Lund,Thursday,09-03-2023,04:00,Cloudy,18
+Lund,Thursday,09-03-2023,04:30,Cloudy,18
+Lund,Thursday,09-03-2023,05:00,Partly Cloudy,12
+Lund,Thursday,09-03-2023,05:30,Cloudy,21
+Lund,Thursday,09-03-2023,06:00,Sunny,25
+Lund,Thursday,09-03-2023,06:30,Partly Cloudy,24
+Lund,Thursday,09-03-2023,07:00,Cloudy,22
+Lund,Thursday,09-03-2023,07:30,Rainy,15
+Lund,Thursday,09-03-2023,08:00,Cloudy,9
+Lund,Thursday,09-03-2023,08:30,Partly Cloudy,22
+Lund,Thursday,09-03-2023,09:00,Sunny,27
+Lund,Thursday,09-03-2023,09:30,Thunderstorms,9
+Lund,Thursday,09-03-2023,10:00,Cloudy,16
+Lund,Thursday,09-03-2023,10:30,Partly Cloudy,12
+Lund,Thursday,09-03-2023,11:00,Partly Cloudy,19
+Lund,Thursday,09-03-2023,11:30,Rainy,18
+Lund,Thursday,09-03-2023,12:00,Rainy,10
+Lund,Thursday,09-03-2023,12:30,Cloudy,12
+Lund,Thursday,09-03-2023,13:00,Cloudy,19
+Lund,Thursday,09-03-2023,13:30,Cloudy,12
+Lund,Thursday,09-03-2023,14:00,Cloudy,21
+Lund,Thursday,09-03-2023,14:30,Rainy,7
+Lund,Thursday,09-03-2023,15:00,Cloudy,9
+Lund,Thursday,09-03-2023,15:30,Partly Cloudy,24
+Lund,Thursday,09-03-2023,16:00,Partly Cloudy,23
+Lund,Thursday,09-03-2023,16:30,Cloudy,16
+Lund,Thursday,09-03-2023,17:00,Rainy,12
+Lund,Thursday,09-03-2023,17:30,Thunderstorms,13
+Lund,Thursday,09-03-2023,18:00,Partly Cloudy,17
+Lund,Thursday,09-03-2023,18:30,Sunny,25
+Lund,Thursday,09-03-2023,19:00,Thunderstorms,7
+Lund,Thursday,09-03-2023,19:30,Thunderstorms,6
+Lund,Thursday,09-03-2023,20:00,Sunny,21
+Lund,Thursday,09-03-2023,20:30,Partly Cloudy,22
+Lund,Thursday,09-03-2023,21:00,Rainy,9
+Lund,Thursday,09-03-2023,21:30,Thunderstorms,7
+Lund,Thursday,09-03-2023,22:00,Cloudy,20
+Lund,Thursday,09-03-2023,22:30,Cloudy,15
+Lund,Thursday,09-03-2023,23:00,Partly Cloudy,17
+Lund,Thursday,09-03-2023,23:30,Sunny,21
+Lund,Friday,10-03-2023,00:00,Partly Cloudy,23
+Lund,Friday,10-03-2023,00:30,Sunny,24
+Lund,Friday,10-03-2023,01:00,Sunny,17
+Lund,Friday,10-03-2023,01:30,Thunderstorms,13
+Lund,Friday,10-03-2023,02:00,Rainy,12
+Lund,Friday,10-03-2023,02:30,Cloudy,13
+Lund,Friday,10-03-2023,03:00,Partly Cloudy,14
+Lund,Friday,10-03-2023,03:30,Partly Cloudy,21
+Lund,Friday,10-03-2023,04:00,Sunny,28
+Lund,Friday,10-03-2023,04:30,Cloudy,15
+Lund,Friday,10-03-2023,05:00,Cloudy,23
+Lund,Friday,10-03-2023,05:30,Partly Cloudy,18
+Lund,Friday,10-03-2023,06:00,Rainy,11
+Lund,Friday,10-03-2023,06:30,Thunderstorms,7
+Lund,Friday,10-03-2023,07:00,Sunny,20
+Lund,Friday,10-03-2023,07:30,Cloudy,12
+Lund,Friday,10-03-2023,08:00,Thunderstorms,10
+Lund,Friday,10-03-2023,08:30,Cloudy,21
+Lund,Friday,10-03-2023,09:00,Cloudy,12
+Lund,Friday,10-03-2023,09:30,Thunderstorms,10
+Lund,Friday,10-03-2023,10:00,Thunderstorms,21
+Lund,Friday,10-03-2023,10:30,Partly Cloudy,19
+Lund,Friday,10-03-2023,11:00,Thunderstorms,13
+Lund,Friday,10-03-2023,11:30,Partly Cloudy,20
+Lund,Friday,10-03-2023,12:00,Rainy,11
+Lund,Friday,10-03-2023,12:30,Rainy,11
+Lund,Friday,10-03-2023,13:00,Rainy,12
+Lund,Friday,10-03-2023,13:30,Rainy,18
+Lund,Friday,10-03-2023,14:00,Rainy,13
+Lund,Friday,10-03-2023,14:30,Cloudy,16
+Lund,Friday,10-03-2023,15:00,Partly Cloudy,17
+Lund,Friday,10-03-2023,15:30,Cloudy,16
+Lund,Friday,10-03-2023,16:00,Sunny,19
+Lund,Friday,10-03-2023,16:30,Cloudy,14
+Lund,Friday,10-03-2023,17:00,Partly Cloudy,18
+Lund,Friday,10-03-2023,17:30,Rainy,11
+Lund,Friday,10-03-2023,18:00,Rainy,7
+Lund,Friday,10-03-2023,18:30,Rainy,6
+Lund,Friday,10-03-2023,19:00,Sunny,24
+Lund,Friday,10-03-2023,19:30,Cloudy,11
+Lund,Friday,10-03-2023,20:00,Sunny,25
+Lund,Friday,10-03-2023,20:30,Cloudy,15
+Lund,Friday,10-03-2023,21:00,Partly Cloudy,13
+Lund,Friday,10-03-2023,21:30,Cloudy,10
+Lund,Friday,10-03-2023,22:00,Partly Cloudy,18
+Lund,Friday,10-03-2023,22:30,Partly Cloudy,15
+Lund,Friday,10-03-2023,23:00,Sunny,17
+Lund,Friday,10-03-2023,23:30,Partly Cloudy,20
+Umea,Saturday,04-03-2023,00:00,Thunderstorms,16
+Umea,Saturday,04-03-2023,00:30,Cloudy,14
+Umea,Saturday,04-03-2023,01:00,Sunny,26
+Umea,Saturday,04-03-2023,01:30,Rainy,2
+Umea,Saturday,04-03-2023,02:00,Partly Cloudy,21
+Umea,Saturday,04-03-2023,02:30,Sunny,28
+Umea,Saturday,04-03-2023,03:00,Partly Cloudy,18
+Umea,Saturday,04-03-2023,03:30,Cloudy,17
+Umea,Saturday,04-03-2023,04:00,Cloudy,10
+Umea,Saturday,04-03-2023,04:30,Partly Cloudy,23
+Umea,Saturday,04-03-2023,05:00,Cloudy,8
+Umea,Saturday,04-03-2023,05:30,Thunderstorms,13
+Umea,Saturday,04-03-2023,06:00,Rainy,12
+Umea,Saturday,04-03-2023,06:30,Rainy,9
+Umea,Saturday,04-03-2023,07:00,Sunny,30
+Umea,Saturday,04-03-2023,07:30,Sunny,21
+Umea,Saturday,04-03-2023,08:00,Sunny,17
+Umea,Saturday,04-03-2023,08:30,Cloudy,11
+Umea,Saturday,04-03-2023,09:00,Rainy,18
+Umea,Saturday,04-03-2023,09:30,Sunny,29
+Umea,Saturday,04-03-2023,10:00,Thunderstorms,5
+Umea,Saturday,04-03-2023,10:30,Partly Cloudy,18
+Umea,Saturday,04-03-2023,11:00,Rainy,4
+Umea,Saturday,04-03-2023,11:30,Partly Cloudy,17
+Umea,Saturday,04-03-2023,12:00,Cloudy,18
+Umea,Saturday,04-03-2023,12:30,Sunny,31
+Umea,Saturday,04-03-2023,13:00,Partly Cloudy,20
+Umea,Saturday,04-03-2023,13:30,Rainy,12
+Umea,Saturday,04-03-2023,14:00,Sunny,19
+Umea,Saturday,04-03-2023,14:30,Rainy,8
+Umea,Saturday,04-03-2023,15:00,Sunny,32
+Umea,Saturday,04-03-2023,15:30,Thunderstorms,21
+Umea,Saturday,04-03-2023,16:00,Thunderstorms,16
+Umea,Saturday,04-03-2023,16:30,Sunny,28
+Umea,Saturday,04-03-2023,17:00,Thunderstorms,13
+Umea,Saturday,04-03-2023,17:30,Cloudy,14
+Umea,Saturday,04-03-2023,18:00,Rainy,11
+Umea,Saturday,04-03-2023,18:30,Sunny,28
+Umea,Saturday,04-03-2023,19:00,Cloudy,18
+Umea,Saturday,04-03-2023,19:30,Rainy,4
+Umea,Saturday,04-03-2023,20:00,Rainy,10
+Umea,Saturday,04-03-2023,20:30,Rainy,13
+Umea,Saturday,04-03-2023,21:00,Sunny,26
+Umea,Saturday,04-03-2023,21:30,Rainy,9
+Umea,Saturday,04-03-2023,22:00,Thunderstorms,6
+Umea,Saturday,04-03-2023,22:30,Cloudy,17
+Umea,Saturday,04-03-2023,23:00,Partly Cloudy,16
+Umea,Saturday,04-03-2023,23:30,Partly Cloudy,16
+Umea,Sunday,05-03-2023,00:00,Cloudy,14
+Umea,Sunday,05-03-2023,00:30,Sunny,25
+Umea,Sunday,05-03-2023,01:00,Thunderstorms,9
+Umea,Sunday,05-03-2023,01:30,Rainy,8
+Umea,Sunday,05-03-2023,02:00,Sunny,19
+Umea,Sunday,05-03-2023,02:30,Thunderstorms,9
+Umea,Sunday,05-03-2023,03:00,Partly Cloudy,19
+Umea,Sunday,05-03-2023,03:30,Cloudy,19
+Umea,Sunday,05-03-2023,04:00,Cloudy,20
+Umea,Sunday,05-03-2023,04:30,Sunny,22
+Umea,Sunday,05-03-2023,05:00,Sunny,26
+Umea,Sunday,05-03-2023,05:30,Sunny,20
+Umea,Sunday,05-03-2023,06:00,Rainy,11
+Umea,Sunday,05-03-2023,06:30,Thunderstorms,15
+Umea,Sunday,05-03-2023,07:00,Thunderstorms,10
+Umea,Sunday,05-03-2023,07:30,Sunny,24
+Umea,Sunday,05-03-2023,08:00,Cloudy,20
+Umea,Sunday,05-03-2023,08:30,Sunny,15
+Umea,Sunday,05-03-2023,09:00,Thunderstorms,13
+Umea,Sunday,05-03-2023,09:30,Cloudy,20
+Umea,Sunday,05-03-2023,10:00,Sunny,30
+Umea,Sunday,05-03-2023,10:30,Partly Cloudy,23
+Umea,Sunday,05-03-2023,11:00,Thunderstorms,13
+Umea,Sunday,05-03-2023,11:30,Thunderstorms,17
+Umea,Sunday,05-03-2023,12:00,Cloudy,14
+Umea,Sunday,05-03-2023,12:30,Rainy,6
+Umea,Sunday,05-03-2023,13:00,Partly Cloudy,18
+Umea,Sunday,05-03-2023,13:30,Cloudy,15
+Umea,Sunday,05-03-2023,14:00,Partly Cloudy,22
+Umea,Sunday,05-03-2023,14:30,Sunny,18
+Umea,Sunday,05-03-2023,15:00,Cloudy,14
+Umea,Sunday,05-03-2023,15:30,Rainy,8
+Umea,Sunday,05-03-2023,16:00,Rainy,8
+Umea,Sunday,05-03-2023,16:30,Partly Cloudy,21
+Umea,Sunday,05-03-2023,17:00,Rainy,9
+Umea,Sunday,05-03-2023,17:30,Cloudy,19
+Umea,Sunday,05-03-2023,18:00,Rainy,7
+Umea,Sunday,05-03-2023,18:30,Thunderstorms,12
+Umea,Sunday,05-03-2023,19:00,Cloudy,8
+Umea,Sunday,05-03-2023,19:30,Rainy,9
+Umea,Sunday,05-03-2023,20:00,Cloudy,11
+Umea,Sunday,05-03-2023,20:30,Partly Cloudy,28
+Umea,Sunday,05-03-2023,21:00,Thunderstorms,9
+Umea,Sunday,05-03-2023,21:30,Rainy,7
+Umea,Sunday,05-03-2023,22:00,Partly Cloudy,16
+Umea,Sunday,05-03-2023,22:30,Rainy,6
+Umea,Sunday,05-03-2023,23:00,Partly Cloudy,27
+Umea,Sunday,05-03-2023,23:30,Partly Cloudy,16
+Umea,Monday,06-03-2023,00:00,Thunderstorms,14
+Umea,Monday,06-03-2023,00:30,Thunderstorms,11
+Umea,Monday,06-03-2023,01:00,Rainy,7
+Umea,Monday,06-03-2023,01:30,Cloudy,13
+Umea,Monday,06-03-2023,02:00,Sunny,30
+Umea,Monday,06-03-2023,02:30,Thunderstorms,16
+Umea,Monday,06-03-2023,03:00,Cloudy,22
+Umea,Monday,06-03-2023,03:30,Partly Cloudy,17
+Umea,Monday,06-03-2023,04:00,Partly Cloudy,22
+Umea,Monday,06-03-2023,04:30,Partly Cloudy,20
+Umea,Monday,06-03-2023,05:00,Cloudy,16
+Umea,Monday,06-03-2023,05:30,Thunderstorms,5
+Umea,Monday,06-03-2023,06:00,Cloudy,13
+Umea,Monday,06-03-2023,06:30,Sunny,20
+Umea,Monday,06-03-2023,07:00,Sunny,26
+Umea,Monday,06-03-2023,07:30,Cloudy,15
+Umea,Monday,06-03-2023,08:00,Sunny,27
+Umea,Monday,06-03-2023,08:30,Cloudy,17
+Umea,Monday,06-03-2023,09:00,Thunderstorms,9
+Umea,Monday,06-03-2023,09:30,Cloudy,14
+Umea,Monday,06-03-2023,10:00,Partly Cloudy,22
+Umea,Monday,06-03-2023,10:30,Sunny,19
+Umea,Monday,06-03-2023,11:00,Sunny,26
+Umea,Monday,06-03-2023,11:30,Cloudy,14
+Umea,Monday,06-03-2023,12:00,Sunny,25
+Umea,Monday,06-03-2023,12:30,Sunny,26
+Umea,Monday,06-03-2023,13:00,Partly Cloudy,23
+Umea,Monday,06-03-2023,13:30,Cloudy,16
+Umea,Monday,06-03-2023,14:00,Partly Cloudy,24
+Umea,Monday,06-03-2023,14:30,Cloudy,11
+Umea,Monday,06-03-2023,15:00,Sunny,29
+Umea,Monday,06-03-2023,15:30,Partly Cloudy,18
+Umea,Monday,06-03-2023,16:00,Rainy,13
+Umea,Monday,06-03-2023,16:30,Rainy,9
+Umea,Monday,06-03-2023,17:00,Rainy,6
+Umea,Monday,06-03-2023,17:30,Partly Cloudy,22
+Umea,Monday,06-03-2023,18:00,Thunderstorms,17
+Umea,Monday,06-03-2023,18:30,Cloudy,11
+Umea,Monday,06-03-2023,19:00,Thunderstorms,20
+Umea,Monday,06-03-2023,19:30,Thunderstorms,20
+Umea,Monday,06-03-2023,20:00,Sunny,22
+Umea,Monday,06-03-2023,20:30,Sunny,26
+Umea,Monday,06-03-2023,21:00,Rainy,5
+Umea,Monday,06-03-2023,21:30,Sunny,20
+Umea,Monday,06-03-2023,22:00,Cloudy,16
+Umea,Monday,06-03-2023,22:30,Cloudy,13
+Umea,Monday,06-03-2023,23:00,Rainy,12
+Umea,Monday,06-03-2023,23:30,Thunderstorms,14
+Umea,Tuesday,07-03-2023,00:00,Cloudy,14
+Umea,Tuesday,07-03-2023,00:30,Partly Cloudy,16
+Umea,Tuesday,07-03-2023,01:00,Sunny,21
+Umea,Tuesday,07-03-2023,01:30,Thunderstorms,14
+Umea,Tuesday,07-03-2023,02:00,Sunny,26
+Umea,Tuesday,07-03-2023,02:30,Cloudy,18
+Umea,Tuesday,07-03-2023,03:00,Cloudy,16
+Umea,Tuesday,07-03-2023,03:30,Thunderstorms,18
+Umea,Tuesday,07-03-2023,04:00,Thunderstorms,8
+Umea,Tuesday,07-03-2023,04:30,Cloudy,12
+Umea,Tuesday,07-03-2023,05:00,Sunny,18
+Umea,Tuesday,07-03-2023,05:30,Thunderstorms,18
+Umea,Tuesday,07-03-2023,06:00,Sunny,24
+Umea,Tuesday,07-03-2023,06:30,Cloudy,11
+Umea,Tuesday,07-03-2023,07:00,Cloudy,17
+Umea,Tuesday,07-03-2023,07:30,Rainy,3
+Umea,Tuesday,07-03-2023,08:00,Partly Cloudy,22
+Umea,Tuesday,07-03-2023,08:30,Sunny,26
+Umea,Tuesday,07-03-2023,09:00,Thunderstorms,15
+Umea,Tuesday,07-03-2023,09:30,Rainy,12
+Umea,Tuesday,07-03-2023,10:00,Rainy,11
+Umea,Tuesday,07-03-2023,10:30,Cloudy,14
+Umea,Tuesday,07-03-2023,11:00,Cloudy,19
+Umea,Tuesday,07-03-2023,11:30,Cloudy,21
+Umea,Tuesday,07-03-2023,12:00,Thunderstorms,15
+Umea,Tuesday,07-03-2023,12:30,Sunny,26
+Umea,Tuesday,07-03-2023,13:00,Thunderstorms,17
+Umea,Tuesday,07-03-2023,13:30,Partly Cloudy,21
+Umea,Tuesday,07-03-2023,14:00,Partly Cloudy,19
+Umea,Tuesday,07-03-2023,14:30,Cloudy,10
+Umea,Tuesday,07-03-2023,15:00,Partly Cloudy,17
+Umea,Tuesday,07-03-2023,15:30,Rainy,9
+Umea,Tuesday,07-03-2023,16:00,Partly Cloudy,23
+Umea,Tuesday,07-03-2023,16:30,Thunderstorms,13
+Umea,Tuesday,07-03-2023,17:00,Sunny,31
+Umea,Tuesday,07-03-2023,17:30,Rainy,4
+Umea,Tuesday,07-03-2023,18:00,Rainy,8
+Umea,Tuesday,07-03-2023,18:30,Cloudy,13
+Umea,Tuesday,07-03-2023,19:00,Cloudy,12
+Umea,Tuesday,07-03-2023,19:30,Partly Cloudy,15
+Umea,Tuesday,07-03-2023,20:00,Partly Cloudy,16
+Umea,Tuesday,07-03-2023,20:30,Thunderstorms,16
+Umea,Tuesday,07-03-2023,21:00,Thunderstorms,14
+Umea,Tuesday,07-03-2023,21:30,Thunderstorms,14
+Umea,Tuesday,07-03-2023,22:00,Thunderstorms,19
+Umea,Tuesday,07-03-2023,22:30,Sunny,21
+Umea,Tuesday,07-03-2023,23:00,Rainy,8
+Umea,Tuesday,07-03-2023,23:30,Partly Cloudy,21
+Umea,Wednesday,08-03-2023,00:00,Cloudy,14
+Umea,Wednesday,08-03-2023,00:30,Rainy,10
+Umea,Wednesday,08-03-2023,01:00,Rainy,7
+Umea,Wednesday,08-03-2023,01:30,Rainy,11
+Umea,Wednesday,08-03-2023,02:00,Sunny,30
+Umea,Wednesday,08-03-2023,02:30,Partly Cloudy,14
+Umea,Wednesday,08-03-2023,03:00,Rainy,12
+Umea,Wednesday,08-03-2023,03:30,Thunderstorms,12
+Umea,Wednesday,08-03-2023,04:00,Cloudy,10
+Umea,Wednesday,08-03-2023,04:30,Cloudy,18
+Umea,Wednesday,08-03-2023,05:00,Cloudy,12
+Umea,Wednesday,08-03-2023,05:30,Rainy,10
+Umea,Wednesday,08-03-2023,06:00,Sunny,29
+Umea,Wednesday,08-03-2023,06:30,Rainy,13
+Umea,Wednesday,08-03-2023,07:00,Thunderstorms,5
+Umea,Wednesday,08-03-2023,07:30,Rainy,7
+Umea,Wednesday,08-03-2023,08:00,Sunny,23
+Umea,Wednesday,08-03-2023,08:30,Rainy,2
+Umea,Wednesday,08-03-2023,09:00,Partly Cloudy,19
+Umea,Wednesday,08-03-2023,09:30,Sunny,26
+Umea,Wednesday,08-03-2023,10:00,Partly Cloudy,22
+Umea,Wednesday,08-03-2023,10:30,Rainy,4
+Umea,Wednesday,08-03-2023,11:00,Rainy,10
+Umea,Wednesday,08-03-2023,11:30,Sunny,20
+Umea,Wednesday,08-03-2023,12:00,Thunderstorms,10
+Umea,Wednesday,08-03-2023,12:30,Sunny,25
+Umea,Wednesday,08-03-2023,13:00,Rainy,9
+Umea,Wednesday,08-03-2023,13:30,Cloudy,18
+Umea,Wednesday,08-03-2023,14:00,Thunderstorms,5
+Umea,Wednesday,08-03-2023,14:30,Rainy,15
+Umea,Wednesday,08-03-2023,15:00,Thunderstorms,16
+Umea,Wednesday,08-03-2023,15:30,Partly Cloudy,19
+Umea,Wednesday,08-03-2023,16:00,Rainy,5
+Umea,Wednesday,08-03-2023,16:30,Thunderstorms,14
+Umea,Wednesday,08-03-2023,17:00,Partly Cloudy,16
+Umea,Wednesday,08-03-2023,17:30,Cloudy,20
+Umea,Wednesday,08-03-2023,18:00,Rainy,12
+Umea,Wednesday,08-03-2023,18:30,Thunderstorms,20
+Umea,Wednesday,08-03-2023,19:00,Cloudy,19
+Umea,Wednesday,08-03-2023,19:30,Thunderstorms,15
+Umea,Wednesday,08-03-2023,20:00,Partly Cloudy,26
+Umea,Wednesday,08-03-2023,20:30,Partly Cloudy,23
+Umea,Wednesday,08-03-2023,21:00,Partly Cloudy,15
+Umea,Wednesday,08-03-2023,21:30,Rainy,9
+Umea,Wednesday,08-03-2023,22:00,Sunny,29
+Umea,Wednesday,08-03-2023,22:30,Cloudy,9
+Umea,Wednesday,08-03-2023,23:00,Rainy,14
+Umea,Wednesday,08-03-2023,23:30,Cloudy,14
+Umea,Thursday,09-03-2023,00:00,Rainy,12
+Umea,Thursday,09-03-2023,00:30,Partly Cloudy,20
+Umea,Thursday,09-03-2023,01:00,Cloudy,23
+Umea,Thursday,09-03-2023,01:30,Thunderstorms,18
+Umea,Thursday,09-03-2023,02:00,Partly Cloudy,25
+Umea,Thursday,09-03-2023,02:30,Cloudy,11
+Umea,Thursday,09-03-2023,03:00,Partly Cloudy,25
+Umea,Thursday,09-03-2023,03:30,Partly Cloudy,18
+Umea,Thursday,09-03-2023,04:00,Cloudy,7
+Umea,Thursday,09-03-2023,04:30,Cloudy,14
+Umea,Thursday,09-03-2023,05:00,Sunny,30
+Umea,Thursday,09-03-2023,05:30,Rainy,10
+Umea,Thursday,09-03-2023,06:00,Partly Cloudy,22
+Umea,Thursday,09-03-2023,06:30,Rainy,7
+Umea,Thursday,09-03-2023,07:00,Sunny,20
+Umea,Thursday,09-03-2023,07:30,Cloudy,11
+Umea,Thursday,09-03-2023,08:00,Rainy,7
+Umea,Thursday,09-03-2023,08:30,Cloudy,18
+Umea,Thursday,09-03-2023,09:00,Cloudy,18
+Umea,Thursday,09-03-2023,09:30,Cloudy,16
+Umea,Thursday,09-03-2023,10:00,Partly Cloudy,24
+Umea,Thursday,09-03-2023,10:30,Sunny,25
+Umea,Thursday,09-03-2023,11:00,Rainy,13
+Umea,Thursday,09-03-2023,11:30,Partly Cloudy,16
+Umea,Thursday,09-03-2023,12:00,Partly Cloudy,16
+Umea,Thursday,09-03-2023,12:30,Rainy,10
+Umea,Thursday,09-03-2023,13:00,Sunny,23
+Umea,Thursday,09-03-2023,13:30,Thunderstorms,14
+Umea,Thursday,09-03-2023,14:00,Rainy,7
+Umea,Thursday,09-03-2023,14:30,Cloudy,12
+Umea,Thursday,09-03-2023,15:00,Partly Cloudy,18
+Umea,Thursday,09-03-2023,15:30,Rainy,11
+Umea,Thursday,09-03-2023,16:00,Sunny,26
+Umea,Thursday,09-03-2023,16:30,Partly Cloudy,22
+Umea,Thursday,09-03-2023,17:00,Rainy,9
+Umea,Thursday,09-03-2023,17:30,Sunny,26
+Umea,Thursday,09-03-2023,18:00,Cloudy,15
+Umea,Thursday,09-03-2023,18:30,Thunderstorms,7
+Umea,Thursday,09-03-2023,19:00,Thunderstorms,15
+Umea,Thursday,09-03-2023,19:30,Cloudy,17
+Umea,Thursday,09-03-2023,20:00,Sunny,29
+Umea,Thursday,09-03-2023,20:30,Partly Cloudy,16
+Umea,Thursday,09-03-2023,21:00,Sunny,24
+Umea,Thursday,09-03-2023,21:30,Rainy,2
+Umea,Thursday,09-03-2023,22:00,Rainy,16
+Umea,Thursday,09-03-2023,22:30,Thunderstorms,14
+Umea,Thursday,09-03-2023,23:00,Rainy,11
+Umea,Thursday,09-03-2023,23:30,Cloudy,23
+Umea,Friday,10-03-2023,00:00,Partly Cloudy,26
+Umea,Friday,10-03-2023,00:30,Partly Cloudy,25
+Umea,Friday,10-03-2023,01:00,Partly Cloudy,15
+Umea,Friday,10-03-2023,01:30,Cloudy,19
+Umea,Friday,10-03-2023,02:00,Rainy,16
+Umea,Friday,10-03-2023,02:30,Rainy,13
+Umea,Friday,10-03-2023,03:00,Partly Cloudy,25
+Umea,Friday,10-03-2023,03:30,Sunny,23
+Umea,Friday,10-03-2023,04:00,Sunny,26
+Umea,Friday,10-03-2023,04:30,Sunny,22
+Umea,Friday,10-03-2023,05:00,Thunderstorms,15
+Umea,Friday,10-03-2023,05:30,Sunny,26
+Umea,Friday,10-03-2023,06:00,Rainy,17
+Umea,Friday,10-03-2023,06:30,Sunny,16
+Umea,Friday,10-03-2023,07:00,Rainy,14
+Umea,Friday,10-03-2023,07:30,Sunny,25
+Umea,Friday,10-03-2023,08:00,Sunny,30
+Umea,Friday,10-03-2023,08:30,Rainy,11
+Umea,Friday,10-03-2023,09:00,Partly Cloudy,15
+Umea,Friday,10-03-2023,09:30,Sunny,25
+Umea,Friday,10-03-2023,10:00,Cloudy,10
+Umea,Friday,10-03-2023,10:30,Sunny,25
+Umea,Friday,10-03-2023,11:00,Rainy,13
+Umea,Friday,10-03-2023,11:30,Rainy,9
+Umea,Friday,10-03-2023,12:00,Rainy,15
+Umea,Friday,10-03-2023,12:30,Thunderstorms,5
+Umea,Friday,10-03-2023,13:00,Cloudy,15
+Umea,Friday,10-03-2023,13:30,Partly Cloudy,18
+Umea,Friday,10-03-2023,14:00,Rainy,9
+Umea,Friday,10-03-2023,14:30,Rainy,8
+Umea,Friday,10-03-2023,15:00,Thunderstorms,7
+Umea,Friday,10-03-2023,15:30,Thunderstorms,14
+Umea,Friday,10-03-2023,16:00,Rainy,12
+Umea,Friday,10-03-2023,16:30,Thunderstorms,19
+Umea,Friday,10-03-2023,17:00,Rainy,4
+Umea,Friday,10-03-2023,17:30,Cloudy,14
+Umea,Friday,10-03-2023,18:00,Rainy,7
+Umea,Friday,10-03-2023,18:30,Sunny,22
+Umea,Friday,10-03-2023,19:00,Cloudy,18
+Umea,Friday,10-03-2023,19:30,Cloudy,10
+Umea,Friday,10-03-2023,20:00,Partly Cloudy,19
+Umea,Friday,10-03-2023,20:30,Partly Cloudy,23
+Umea,Friday,10-03-2023,21:00,Thunderstorms,19
+Umea,Friday,10-03-2023,21:30,Partly Cloudy,18
+Umea,Friday,10-03-2023,22:00,Sunny,33
+Umea,Friday,10-03-2023,22:30,Cloudy,14
+Umea,Friday,10-03-2023,23:00,Cloudy,13
+Umea,Friday,10-03-2023,23:30,Thunderstorms,17
+Boras,Saturday,04-03-2023,00:00,Sunny,23
+Boras,Saturday,04-03-2023,00:30,Thunderstorms,13
+Boras,Saturday,04-03-2023,01:00,Cloudy,14
+Boras,Saturday,04-03-2023,01:30,Thunderstorms,15
+Boras,Saturday,04-03-2023,02:00,Sunny,22
+Boras,Saturday,04-03-2023,02:30,Thunderstorms,6
+Boras,Saturday,04-03-2023,03:00,Sunny,23
+Boras,Saturday,04-03-2023,03:30,Sunny,20
+Boras,Saturday,04-03-2023,04:00,Sunny,29
+Boras,Saturday,04-03-2023,04:30,Rainy,14
+Boras,Saturday,04-03-2023,05:00,Partly Cloudy,22
+Boras,Saturday,04-03-2023,05:30,Cloudy,16
+Boras,Saturday,04-03-2023,06:00,Rainy,15
+Boras,Saturday,04-03-2023,06:30,Cloudy,10
+Boras,Saturday,04-03-2023,07:00,Partly Cloudy,17
+Boras,Saturday,04-03-2023,07:30,Thunderstorms,9
+Boras,Saturday,04-03-2023,08:00,Sunny,31
+Boras,Saturday,04-03-2023,08:30,Partly Cloudy,22
+Boras,Saturday,04-03-2023,09:00,Thunderstorms,17
+Boras,Saturday,04-03-2023,09:30,Cloudy,11
+Boras,Saturday,04-03-2023,10:00,Partly Cloudy,14
+Boras,Saturday,04-03-2023,10:30,Sunny,30
+Boras,Saturday,04-03-2023,11:00,Thunderstorms,14
+Boras,Saturday,04-03-2023,11:30,Partly Cloudy,16
+Boras,Saturday,04-03-2023,12:00,Partly Cloudy,21
+Boras,Saturday,04-03-2023,12:30,Sunny,22
+Boras,Saturday,04-03-2023,13:00,Thunderstorms,13
+Boras,Saturday,04-03-2023,13:30,Cloudy,9
+Boras,Saturday,04-03-2023,14:00,Cloudy,12
+Boras,Saturday,04-03-2023,14:30,Thunderstorms,6
+Boras,Saturday,04-03-2023,15:00,Partly Cloudy,17
+Boras,Saturday,04-03-2023,15:30,Cloudy,18
+Boras,Saturday,04-03-2023,16:00,Thunderstorms,9
+Boras,Saturday,04-03-2023,16:30,Sunny,26
+Boras,Saturday,04-03-2023,17:00,Cloudy,13
+Boras,Saturday,04-03-2023,17:30,Thunderstorms,12
+Boras,Saturday,04-03-2023,18:00,Rainy,10
+Boras,Saturday,04-03-2023,18:30,Cloudy,11
+Boras,Saturday,04-03-2023,19:00,Rainy,15
+Boras,Saturday,04-03-2023,19:30,Thunderstorms,15
+Boras,Saturday,04-03-2023,20:00,Rainy,6
+Boras,Saturday,04-03-2023,20:30,Rainy,13
+Boras,Saturday,04-03-2023,21:00,Sunny,23
+Boras,Saturday,04-03-2023,21:30,Cloudy,12
+Boras,Saturday,04-03-2023,22:00,Rainy,13
+Boras,Saturday,04-03-2023,22:30,Cloudy,16
+Boras,Saturday,04-03-2023,23:00,Sunny,27
+Boras,Saturday,04-03-2023,23:30,Thunderstorms,15
+Boras,Sunday,05-03-2023,00:00,Rainy,4
+Boras,Sunday,05-03-2023,00:30,Sunny,27
+Boras,Sunday,05-03-2023,01:00,Thunderstorms,14
+Boras,Sunday,05-03-2023,01:30,Sunny,24
+Boras,Sunday,05-03-2023,02:00,Thunderstorms,9
+Boras,Sunday,05-03-2023,02:30,Cloudy,18
+Boras,Sunday,05-03-2023,03:00,Cloudy,10
+Boras,Sunday,05-03-2023,03:30,Sunny,27
+Boras,Sunday,05-03-2023,04:00,Rainy,10
+Boras,Sunday,05-03-2023,04:30,Rainy,8
+Boras,Sunday,05-03-2023,05:00,Sunny,30
+Boras,Sunday,05-03-2023,05:30,Thunderstorms,10
+Boras,Sunday,05-03-2023,06:00,Rainy,7
+Boras,Sunday,05-03-2023,06:30,Partly Cloudy,20
+Boras,Sunday,05-03-2023,07:00,Rainy,13
+Boras,Sunday,05-03-2023,07:30,Cloudy,20
+Boras,Sunday,05-03-2023,08:00,Cloudy,9
+Boras,Sunday,05-03-2023,08:30,Thunderstorms,17
+Boras,Sunday,05-03-2023,09:00,Thunderstorms,20
+Boras,Sunday,05-03-2023,09:30,Cloudy,18
+Boras,Sunday,05-03-2023,10:00,Rainy,11
+Boras,Sunday,05-03-2023,10:30,Cloudy,13
+Boras,Sunday,05-03-2023,11:00,Thunderstorms,12
+Boras,Sunday,05-03-2023,11:30,Partly Cloudy,20
+Boras,Sunday,05-03-2023,12:00,Cloudy,18
+Boras,Sunday,05-03-2023,12:30,Sunny,24
+Boras,Sunday,05-03-2023,13:00,Partly Cloudy,18
+Boras,Sunday,05-03-2023,13:30,Rainy,9
+Boras,Sunday,05-03-2023,14:00,Cloudy,10
+Boras,Sunday,05-03-2023,14:30,Cloudy,15
+Boras,Sunday,05-03-2023,15:00,Cloudy,23
+Boras,Sunday,05-03-2023,15:30,Partly Cloudy,25
+Boras,Sunday,05-03-2023,16:00,Thunderstorms,10
+Boras,Sunday,05-03-2023,16:30,Cloudy,11
+Boras,Sunday,05-03-2023,17:00,Partly Cloudy,26
+Boras,Sunday,05-03-2023,17:30,Thunderstorms,12
+Boras,Sunday,05-03-2023,18:00,Thunderstorms,16
+Boras,Sunday,05-03-2023,18:30,Partly Cloudy,16
+Boras,Sunday,05-03-2023,19:00,Cloudy,20
+Boras,Sunday,05-03-2023,19:30,Cloudy,10
+Boras,Sunday,05-03-2023,20:00,Partly Cloudy,17
+Boras,Sunday,05-03-2023,20:30,Thunderstorms,6
+Boras,Sunday,05-03-2023,21:00,Rainy,8
+Boras,Sunday,05-03-2023,21:30,Sunny,29
+Boras,Sunday,05-03-2023,22:00,Partly Cloudy,20
+Boras,Sunday,05-03-2023,22:30,Partly Cloudy,16
+Boras,Sunday,05-03-2023,23:00,Rainy,10
+Boras,Sunday,05-03-2023,23:30,Sunny,27
+Boras,Monday,06-03-2023,00:00,Cloudy,12
+Boras,Monday,06-03-2023,00:30,Partly Cloudy,21
+Boras,Monday,06-03-2023,01:00,Thunderstorms,15
+Boras,Monday,06-03-2023,01:30,Partly Cloudy,19
+Boras,Monday,06-03-2023,02:00,Thunderstorms,5
+Boras,Monday,06-03-2023,02:30,Sunny,24
+Boras,Monday,06-03-2023,03:00,Cloudy,13
+Boras,Monday,06-03-2023,03:30,Cloudy,12
+Boras,Monday,06-03-2023,04:00,Sunny,29
+Boras,Monday,06-03-2023,04:30,Cloudy,16
+Boras,Monday,06-03-2023,05:00,Sunny,24
+Boras,Monday,06-03-2023,05:30,Thunderstorms,17
+Boras,Monday,06-03-2023,06:00,Thunderstorms,17
+Boras,Monday,06-03-2023,06:30,Cloudy,18
+Boras,Monday,06-03-2023,07:00,Sunny,24
+Boras,Monday,06-03-2023,07:30,Rainy,9
+Boras,Monday,06-03-2023,08:00,Partly Cloudy,22
+Boras,Monday,06-03-2023,08:30,Cloudy,13
+Boras,Monday,06-03-2023,09:00,Thunderstorms,13
+Boras,Monday,06-03-2023,09:30,Cloudy,18
+Boras,Monday,06-03-2023,10:00,Cloudy,10
+Boras,Monday,06-03-2023,10:30,Thunderstorms,14
+Boras,Monday,06-03-2023,11:00,Rainy,14
+Boras,Monday,06-03-2023,11:30,Thunderstorms,7
+Boras,Monday,06-03-2023,12:00,Cloudy,9
+Boras,Monday,06-03-2023,12:30,Thunderstorms,18
+Boras,Monday,06-03-2023,13:00,Partly Cloudy,15
+Boras,Monday,06-03-2023,13:30,Thunderstorms,20
+Boras,Monday,06-03-2023,14:00,Thunderstorms,16
+Boras,Monday,06-03-2023,14:30,Cloudy,17
+Boras,Monday,06-03-2023,15:00,Rainy,10
+Boras,Monday,06-03-2023,15:30,Partly Cloudy,15
+Boras,Monday,06-03-2023,16:00,Sunny,31
+Boras,Monday,06-03-2023,16:30,Cloudy,19
+Boras,Monday,06-03-2023,17:00,Partly Cloudy,19
+Boras,Monday,06-03-2023,17:30,Partly Cloudy,18
+Boras,Monday,06-03-2023,18:00,Partly Cloudy,16
+Boras,Monday,06-03-2023,18:30,Rainy,11
+Boras,Monday,06-03-2023,19:00,Cloudy,12
+Boras,Monday,06-03-2023,19:30,Rainy,14
+Boras,Monday,06-03-2023,20:00,Partly Cloudy,20
+Boras,Monday,06-03-2023,20:30,Partly Cloudy,16
+Boras,Monday,06-03-2023,21:00,Rainy,6
+Boras,Monday,06-03-2023,21:30,Thunderstorms,20
+Boras,Monday,06-03-2023,22:00,Thunderstorms,13
+Boras,Monday,06-03-2023,22:30,Partly Cloudy,16
+Boras,Monday,06-03-2023,23:00,Thunderstorms,11
+Boras,Monday,06-03-2023,23:30,Partly Cloudy,21
+Boras,Tuesday,07-03-2023,00:00,Sunny,20
+Boras,Tuesday,07-03-2023,00:30,Rainy,14
+Boras,Tuesday,07-03-2023,01:00,Cloudy,20
+Boras,Tuesday,07-03-2023,01:30,Partly Cloudy,22
+Boras,Tuesday,07-03-2023,02:00,Cloudy,20
+Boras,Tuesday,07-03-2023,02:30,Rainy,7
+Boras,Tuesday,07-03-2023,03:00,Thunderstorms,12
+Boras,Tuesday,07-03-2023,03:30,Cloudy,15
+Boras,Tuesday,07-03-2023,04:00,Rainy,7
+Boras,Tuesday,07-03-2023,04:30,Sunny,25
+Boras,Tuesday,07-03-2023,05:00,Sunny,26
+Boras,Tuesday,07-03-2023,05:30,Rainy,14
+Boras,Tuesday,07-03-2023,06:00,Thunderstorms,16
+Boras,Tuesday,07-03-2023,06:30,Sunny,24
+Boras,Tuesday,07-03-2023,07:00,Partly Cloudy,16
+Boras,Tuesday,07-03-2023,07:30,Thunderstorms,12
+Boras,Tuesday,07-03-2023,08:00,Partly Cloudy,28
+Boras,Tuesday,07-03-2023,08:30,Cloudy,15
+Boras,Tuesday,07-03-2023,09:00,Cloudy,17
+Boras,Tuesday,07-03-2023,09:30,Sunny,17
+Boras,Tuesday,07-03-2023,10:00,Sunny,27
+Boras,Tuesday,07-03-2023,10:30,Partly Cloudy,23
+Boras,Tuesday,07-03-2023,11:00,Partly Cloudy,14
+Boras,Tuesday,07-03-2023,11:30,Cloudy,12
+Boras,Tuesday,07-03-2023,12:00,Rainy,15
+Boras,Tuesday,07-03-2023,12:30,Sunny,26
+Boras,Tuesday,07-03-2023,13:00,Thunderstorms,12
+Boras,Tuesday,07-03-2023,13:30,Sunny,22
+Boras,Tuesday,07-03-2023,14:00,Thunderstorms,10
+Boras,Tuesday,07-03-2023,14:30,Sunny,26
+Boras,Tuesday,07-03-2023,15:00,Cloudy,8
+Boras,Tuesday,07-03-2023,15:30,Thunderstorms,15
+Boras,Tuesday,07-03-2023,16:00,Partly Cloudy,23
+Boras,Tuesday,07-03-2023,16:30,Partly Cloudy,19
+Boras,Tuesday,07-03-2023,17:00,Partly Cloudy,24
+Boras,Tuesday,07-03-2023,17:30,Rainy,16
+Boras,Tuesday,07-03-2023,18:00,Sunny,25
+Boras,Tuesday,07-03-2023,18:30,Partly Cloudy,13
+Boras,Tuesday,07-03-2023,19:00,Sunny,23
+Boras,Tuesday,07-03-2023,19:30,Sunny,17
+Boras,Tuesday,07-03-2023,20:00,Sunny,25
+Boras,Tuesday,07-03-2023,20:30,Rainy,9
+Boras,Tuesday,07-03-2023,21:00,Partly Cloudy,24
+Boras,Tuesday,07-03-2023,21:30,Partly Cloudy,25
+Boras,Tuesday,07-03-2023,22:00,Cloudy,11
+Boras,Tuesday,07-03-2023,22:30,Partly Cloudy,20
+Boras,Tuesday,07-03-2023,23:00,Sunny,25
+Boras,Tuesday,07-03-2023,23:30,Thunderstorms,20
+Boras,Wednesday,08-03-2023,00:00,Thunderstorms,12
+Boras,Wednesday,08-03-2023,00:30,Sunny,19
+Boras,Wednesday,08-03-2023,01:00,Thunderstorms,15
+Boras,Wednesday,08-03-2023,01:30,Rainy,6
+Boras,Wednesday,08-03-2023,02:00,Sunny,26
+Boras,Wednesday,08-03-2023,02:30,Rainy,4
+Boras,Wednesday,08-03-2023,03:00,Cloudy,14
+Boras,Wednesday,08-03-2023,03:30,Rainy,7
+Boras,Wednesday,08-03-2023,04:00,Sunny,21
+Boras,Wednesday,08-03-2023,04:30,Cloudy,12
+Boras,Wednesday,08-03-2023,05:00,Thunderstorms,16
+Boras,Wednesday,08-03-2023,05:30,Partly Cloudy,19
+Boras,Wednesday,08-03-2023,06:00,Partly Cloudy,14
+Boras,Wednesday,08-03-2023,06:30,Thunderstorms,16
+Boras,Wednesday,08-03-2023,07:00,Sunny,27
+Boras,Wednesday,08-03-2023,07:30,Rainy,12
+Boras,Wednesday,08-03-2023,08:00,Partly Cloudy,20
+Boras,Wednesday,08-03-2023,08:30,Cloudy,11
+Boras,Wednesday,08-03-2023,09:00,Thunderstorms,16
+Boras,Wednesday,08-03-2023,09:30,Partly Cloudy,24
+Boras,Wednesday,08-03-2023,10:00,Sunny,21
+Boras,Wednesday,08-03-2023,10:30,Cloudy,20
+Boras,Wednesday,08-03-2023,11:00,Thunderstorms,8
+Boras,Wednesday,08-03-2023,11:30,Cloudy,15
+Boras,Wednesday,08-03-2023,12:00,Cloudy,21
+Boras,Wednesday,08-03-2023,12:30,Sunny,22
+Boras,Wednesday,08-03-2023,13:00,Sunny,21
+Boras,Wednesday,08-03-2023,13:30,Sunny,25
+Boras,Wednesday,08-03-2023,14:00,Thunderstorms,18
+Boras,Wednesday,08-03-2023,14:30,Rainy,12
+Boras,Wednesday,08-03-2023,15:00,Rainy,7
+Boras,Wednesday,08-03-2023,15:30,Sunny,20
+Boras,Wednesday,08-03-2023,16:00,Rainy,13
+Boras,Wednesday,08-03-2023,16:30,Thunderstorms,11
+Boras,Wednesday,08-03-2023,17:00,Thunderstorms,14
+Boras,Wednesday,08-03-2023,17:30,Rainy,16
+Boras,Wednesday,08-03-2023,18:00,Sunny,26
+Boras,Wednesday,08-03-2023,18:30,Thunderstorms,16
+Boras,Wednesday,08-03-2023,19:00,Partly Cloudy,27
+Boras,Wednesday,08-03-2023,19:30,Thunderstorms,17
+Boras,Wednesday,08-03-2023,20:00,Partly Cloudy,24
+Boras,Wednesday,08-03-2023,20:30,Rainy,5
+Boras,Wednesday,08-03-2023,21:00,Partly Cloudy,20
+Boras,Wednesday,08-03-2023,21:30,Cloudy,14
+Boras,Wednesday,08-03-2023,22:00,Sunny,26
+Boras,Wednesday,08-03-2023,22:30,Rainy,10
+Boras,Wednesday,08-03-2023,23:00,Cloudy,12
+Boras,Wednesday,08-03-2023,23:30,Cloudy,21
+Boras,Thursday,09-03-2023,00:00,Rainy,9
+Boras,Thursday,09-03-2023,00:30,Partly Cloudy,22
+Boras,Thursday,09-03-2023,01:00,Cloudy,13
+Boras,Thursday,09-03-2023,01:30,Partly Cloudy,18
+Boras,Thursday,09-03-2023,02:00,Partly Cloudy,13
+Boras,Thursday,09-03-2023,02:30,Cloudy,19
+Boras,Thursday,09-03-2023,03:00,Cloudy,19
+Boras,Thursday,09-03-2023,03:30,Sunny,29
+Boras,Thursday,09-03-2023,04:00,Partly Cloudy,15
+Boras,Thursday,09-03-2023,04:30,Partly Cloudy,19
+Boras,Thursday,09-03-2023,05:00,Partly Cloudy,28
+Boras,Thursday,09-03-2023,05:30,Cloudy,10
+Boras,Thursday,09-03-2023,06:00,Sunny,18
+Boras,Thursday,09-03-2023,06:30,Thunderstorms,7
+Boras,Thursday,09-03-2023,07:00,Rainy,14
+Boras,Thursday,09-03-2023,07:30,Thunderstorms,17
+Boras,Thursday,09-03-2023,08:00,Thunderstorms,8
+Boras,Thursday,09-03-2023,08:30,Rainy,6
+Boras,Thursday,09-03-2023,09:00,Rainy,13
+Boras,Thursday,09-03-2023,09:30,Partly Cloudy,13
+Boras,Thursday,09-03-2023,10:00,Rainy,15
+Boras,Thursday,09-03-2023,10:30,Cloudy,14
+Boras,Thursday,09-03-2023,11:00,Cloudy,19
+Boras,Thursday,09-03-2023,11:30,Rainy,15
+Boras,Thursday,09-03-2023,12:00,Partly Cloudy,19
+Boras,Thursday,09-03-2023,12:30,Thunderstorms,6
+Boras,Thursday,09-03-2023,13:00,Thunderstorms,19
+Boras,Thursday,09-03-2023,13:30,Partly Cloudy,28
+Boras,Thursday,09-03-2023,14:00,Sunny,28
+Boras,Thursday,09-03-2023,14:30,Cloudy,13
+Boras,Thursday,09-03-2023,15:00,Thunderstorms,15
+Boras,Thursday,09-03-2023,15:30,Partly Cloudy,23
+Boras,Thursday,09-03-2023,16:00,Partly Cloudy,22
+Boras,Thursday,09-03-2023,16:30,Thunderstorms,15
+Boras,Thursday,09-03-2023,17:00,Rainy,11
+Boras,Thursday,09-03-2023,17:30,Cloudy,19
+Boras,Thursday,09-03-2023,18:00,Cloudy,17
+Boras,Thursday,09-03-2023,18:30,Sunny,26
+Boras,Thursday,09-03-2023,19:00,Rainy,2
+Boras,Thursday,09-03-2023,19:30,Rainy,15
+Boras,Thursday,09-03-2023,20:00,Thunderstorms,9
+Boras,Thursday,09-03-2023,20:30,Sunny,26
+Boras,Thursday,09-03-2023,21:00,Thunderstorms,18
+Boras,Thursday,09-03-2023,21:30,Cloudy,19
+Boras,Thursday,09-03-2023,22:00,Cloudy,10
+Boras,Thursday,09-03-2023,22:30,Cloudy,16
+Boras,Thursday,09-03-2023,23:00,Thunderstorms,14
+Boras,Thursday,09-03-2023,23:30,Cloudy,21
+Boras,Friday,10-03-2023,00:00,Rainy,9
+Boras,Friday,10-03-2023,00:30,Sunny,19
+Boras,Friday,10-03-2023,01:00,Sunny,20
+Boras,Friday,10-03-2023,01:30,Partly Cloudy,26
+Boras,Friday,10-03-2023,02:00,Sunny,21
+Boras,Friday,10-03-2023,02:30,Rainy,15
+Boras,Friday,10-03-2023,03:00,Rainy,7
+Boras,Friday,10-03-2023,03:30,Partly Cloudy,15
+Boras,Friday,10-03-2023,04:00,Cloudy,8
+Boras,Friday,10-03-2023,04:30,Rainy,3
+Boras,Friday,10-03-2023,05:00,Rainy,14
+Boras,Friday,10-03-2023,05:30,Cloudy,15
+Boras,Friday,10-03-2023,06:00,Sunny,29
+Boras,Friday,10-03-2023,06:30,Sunny,32
+Boras,Friday,10-03-2023,07:00,Partly Cloudy,13
+Boras,Friday,10-03-2023,07:30,Thunderstorms,7
+Boras,Friday,10-03-2023,08:00,Thunderstorms,10
+Boras,Friday,10-03-2023,08:30,Rainy,11
+Boras,Friday,10-03-2023,09:00,Partly Cloudy,17
+Boras,Friday,10-03-2023,09:30,Cloudy,16
+Boras,Friday,10-03-2023,10:00,Thunderstorms,13
+Boras,Friday,10-03-2023,10:30,Partly Cloudy,23
+Boras,Friday,10-03-2023,11:00,Cloudy,21
+Boras,Friday,10-03-2023,11:30,Rainy,12
+Boras,Friday,10-03-2023,12:00,Sunny,29
+Boras,Friday,10-03-2023,12:30,Thunderstorms,7
+Boras,Friday,10-03-2023,13:00,Sunny,18
+Boras,Friday,10-03-2023,13:30,Thunderstorms,5
+Boras,Friday,10-03-2023,14:00,Cloudy,14
+Boras,Friday,10-03-2023,14:30,Cloudy,19
+Boras,Friday,10-03-2023,15:00,Thunderstorms,7
+Boras,Friday,10-03-2023,15:30,Thunderstorms,14
+Boras,Friday,10-03-2023,16:00,Rainy,13
+Boras,Friday,10-03-2023,16:30,Thunderstorms,17
+Boras,Friday,10-03-2023,17:00,Rainy,6
+Boras,Friday,10-03-2023,17:30,Cloudy,18
+Boras,Friday,10-03-2023,18:00,Sunny,22
+Boras,Friday,10-03-2023,18:30,Thunderstorms,18
+Boras,Friday,10-03-2023,19:00,Sunny,28
+Boras,Friday,10-03-2023,19:30,Partly Cloudy,20
+Boras,Friday,10-03-2023,20:00,Rainy,11
+Boras,Friday,10-03-2023,20:30,Thunderstorms,16
+Boras,Friday,10-03-2023,21:00,Partly Cloudy,20
+Boras,Friday,10-03-2023,21:30,Sunny,30
+Boras,Friday,10-03-2023,22:00,Cloudy,11
+Boras,Friday,10-03-2023,22:30,Thunderstorms,14
+Boras,Friday,10-03-2023,23:00,Sunny,18
+Boras,Friday,10-03-2023,23:30,Partly Cloudy,18
+Halmstad,Saturday,04-03-2023,00:00,Partly Cloudy,19
+Halmstad,Saturday,04-03-2023,00:30,Sunny,28
+Halmstad,Saturday,04-03-2023,01:00,Thunderstorms,16
+Halmstad,Saturday,04-03-2023,01:30,Thunderstorms,19
+Halmstad,Saturday,04-03-2023,02:00,Thunderstorms,16
+Halmstad,Saturday,04-03-2023,02:30,Partly Cloudy,20
+Halmstad,Saturday,04-03-2023,03:00,Cloudy,17
+Halmstad,Saturday,04-03-2023,03:30,Cloudy,10
+Halmstad,Saturday,04-03-2023,04:00,Partly Cloudy,22
+Halmstad,Saturday,04-03-2023,04:30,Rainy,8
+Halmstad,Saturday,04-03-2023,05:00,Rainy,9
+Halmstad,Saturday,04-03-2023,05:30,Cloudy,11
+Halmstad,Saturday,04-03-2023,06:00,Cloudy,22
+Halmstad,Saturday,04-03-2023,06:30,Partly Cloudy,16
+Halmstad,Saturday,04-03-2023,07:00,Partly Cloudy,20
+Halmstad,Saturday,04-03-2023,07:30,Thunderstorms,15
+Halmstad,Saturday,04-03-2023,08:00,Sunny,23
+Halmstad,Saturday,04-03-2023,08:30,Rainy,9
+Halmstad,Saturday,04-03-2023,09:00,Partly Cloudy,25
+Halmstad,Saturday,04-03-2023,09:30,Sunny,22
+Halmstad,Saturday,04-03-2023,10:00,Rainy,8
+Halmstad,Saturday,04-03-2023,10:30,Partly Cloudy,28
+Halmstad,Saturday,04-03-2023,11:00,Cloudy,18
+Halmstad,Saturday,04-03-2023,11:30,Sunny,21
+Halmstad,Saturday,04-03-2023,12:00,Sunny,28
+Halmstad,Saturday,04-03-2023,12:30,Rainy,16
+Halmstad,Saturday,04-03-2023,13:00,Partly Cloudy,19
+Halmstad,Saturday,04-03-2023,13:30,Sunny,24
+Halmstad,Saturday,04-03-2023,14:00,Partly Cloudy,19
+Halmstad,Saturday,04-03-2023,14:30,Thunderstorms,8
+Halmstad,Saturday,04-03-2023,15:00,Sunny,19
+Halmstad,Saturday,04-03-2023,15:30,Thunderstorms,19
+Halmstad,Saturday,04-03-2023,16:00,Sunny,27
+Halmstad,Saturday,04-03-2023,16:30,Thunderstorms,6
+Halmstad,Saturday,04-03-2023,17:00,Sunny,24
+Halmstad,Saturday,04-03-2023,17:30,Partly Cloudy,21
+Halmstad,Saturday,04-03-2023,18:00,Thunderstorms,17
+Halmstad,Saturday,04-03-2023,18:30,Partly Cloudy,18
+Halmstad,Saturday,04-03-2023,19:00,Cloudy,9
+Halmstad,Saturday,04-03-2023,19:30,Partly Cloudy,22
+Halmstad,Saturday,04-03-2023,20:00,Thunderstorms,7
+Halmstad,Saturday,04-03-2023,20:30,Rainy,5
+Halmstad,Saturday,04-03-2023,21:00,Thunderstorms,17
+Halmstad,Saturday,04-03-2023,21:30,Partly Cloudy,15
+Halmstad,Saturday,04-03-2023,22:00,Sunny,27
+Halmstad,Saturday,04-03-2023,22:30,Thunderstorms,11
+Halmstad,Saturday,04-03-2023,23:00,Partly Cloudy,23
+Halmstad,Saturday,04-03-2023,23:30,Thunderstorms,9
+Halmstad,Sunday,05-03-2023,00:00,Cloudy,17
+Halmstad,Sunday,05-03-2023,00:30,Cloudy,12
+Halmstad,Sunday,05-03-2023,01:00,Thunderstorms,7
+Halmstad,Sunday,05-03-2023,01:30,Thunderstorms,14
+Halmstad,Sunday,05-03-2023,02:00,Sunny,28
+Halmstad,Sunday,05-03-2023,02:30,Cloudy,18
+Halmstad,Sunday,05-03-2023,03:00,Cloudy,21
+Halmstad,Sunday,05-03-2023,03:30,Cloudy,14
+Halmstad,Sunday,05-03-2023,04:00,Rainy,14
+Halmstad,Sunday,05-03-2023,04:30,Cloudy,12
+Halmstad,Sunday,05-03-2023,05:00,Thunderstorms,14
+Halmstad,Sunday,05-03-2023,05:30,Thunderstorms,11
+Halmstad,Sunday,05-03-2023,06:00,Rainy,14
+Halmstad,Sunday,05-03-2023,06:30,Cloudy,15
+Halmstad,Sunday,05-03-2023,07:00,Rainy,14
+Halmstad,Sunday,05-03-2023,07:30,Rainy,10
+Halmstad,Sunday,05-03-2023,08:00,Cloudy,16
+Halmstad,Sunday,05-03-2023,08:30,Sunny,24
+Halmstad,Sunday,05-03-2023,09:00,Cloudy,11
+Halmstad,Sunday,05-03-2023,09:30,Sunny,23
+Halmstad,Sunday,05-03-2023,10:00,Partly Cloudy,16
+Halmstad,Sunday,05-03-2023,10:30,Sunny,25
+Halmstad,Sunday,05-03-2023,11:00,Sunny,24
+Halmstad,Sunday,05-03-2023,11:30,Cloudy,14
+Halmstad,Sunday,05-03-2023,12:00,Sunny,22
+Halmstad,Sunday,05-03-2023,12:30,Partly Cloudy,25
+Halmstad,Sunday,05-03-2023,13:00,Partly Cloudy,27
+Halmstad,Sunday,05-03-2023,13:30,Partly Cloudy,15
+Halmstad,Sunday,05-03-2023,14:00,Cloudy,14
+Halmstad,Sunday,05-03-2023,14:30,Partly Cloudy,17
+Halmstad,Sunday,05-03-2023,15:00,Thunderstorms,9
+Halmstad,Sunday,05-03-2023,15:30,Rainy,13
+Halmstad,Sunday,05-03-2023,16:00,Partly Cloudy,19
+Halmstad,Sunday,05-03-2023,16:30,Sunny,23
+Halmstad,Sunday,05-03-2023,17:00,Partly Cloudy,26
+Halmstad,Sunday,05-03-2023,17:30,Rainy,4
+Halmstad,Sunday,05-03-2023,18:00,Partly Cloudy,23
+Halmstad,Sunday,05-03-2023,18:30,Partly Cloudy,17
+Halmstad,Sunday,05-03-2023,19:00,Thunderstorms,10
+Halmstad,Sunday,05-03-2023,19:30,Rainy,5
+Halmstad,Sunday,05-03-2023,20:00,Sunny,20
+Halmstad,Sunday,05-03-2023,20:30,Sunny,25
+Halmstad,Sunday,05-03-2023,21:00,Thunderstorms,9
+Halmstad,Sunday,05-03-2023,21:30,Thunderstorms,14
+Halmstad,Sunday,05-03-2023,22:00,Partly Cloudy,20
+Halmstad,Sunday,05-03-2023,22:30,Cloudy,23
+Halmstad,Sunday,05-03-2023,23:00,Cloudy,17
+Halmstad,Sunday,05-03-2023,23:30,Thunderstorms,10
+Halmstad,Monday,06-03-2023,00:00,Partly Cloudy,16
+Halmstad,Monday,06-03-2023,00:30,Cloudy,11
+Halmstad,Monday,06-03-2023,01:00,Thunderstorms,11
+Halmstad,Monday,06-03-2023,01:30,Thunderstorms,19
+Halmstad,Monday,06-03-2023,02:00,Rainy,7
+Halmstad,Monday,06-03-2023,02:30,Sunny,31
+Halmstad,Monday,06-03-2023,03:00,Cloudy,17
+Halmstad,Monday,06-03-2023,03:30,Thunderstorms,16
+Halmstad,Monday,06-03-2023,04:00,Thunderstorms,15
+Halmstad,Monday,06-03-2023,04:30,Cloudy,20
+Halmstad,Monday,06-03-2023,05:00,Thunderstorms,17
+Halmstad,Monday,06-03-2023,05:30,Partly Cloudy,15
+Halmstad,Monday,06-03-2023,06:00,Sunny,31
+Halmstad,Monday,06-03-2023,06:30,Rainy,14
+Halmstad,Monday,06-03-2023,07:00,Sunny,23
+Halmstad,Monday,06-03-2023,07:30,Cloudy,14
+Halmstad,Monday,06-03-2023,08:00,Rainy,8
+Halmstad,Monday,06-03-2023,08:30,Rainy,9
+Halmstad,Monday,06-03-2023,09:00,Rainy,12
+Halmstad,Monday,06-03-2023,09:30,Cloudy,22
+Halmstad,Monday,06-03-2023,10:00,Sunny,27
+Halmstad,Monday,06-03-2023,10:30,Thunderstorms,10
+Halmstad,Monday,06-03-2023,11:00,Rainy,12
+Halmstad,Monday,06-03-2023,11:30,Thunderstorms,17
+Halmstad,Monday,06-03-2023,12:00,Sunny,21
+Halmstad,Monday,06-03-2023,12:30,Cloudy,13
+Halmstad,Monday,06-03-2023,13:00,Cloudy,12
+Halmstad,Monday,06-03-2023,13:30,Thunderstorms,12
+Halmstad,Monday,06-03-2023,14:00,Thunderstorms,15
+Halmstad,Monday,06-03-2023,14:30,Thunderstorms,12
+Halmstad,Monday,06-03-2023,15:00,Cloudy,21
+Halmstad,Monday,06-03-2023,15:30,Cloudy,18
+Halmstad,Monday,06-03-2023,16:00,Sunny,24
+Halmstad,Monday,06-03-2023,16:30,Cloudy,13
+Halmstad,Monday,06-03-2023,17:00,Thunderstorms,8
+Halmstad,Monday,06-03-2023,17:30,Thunderstorms,8
+Halmstad,Monday,06-03-2023,18:00,Partly Cloudy,17
+Halmstad,Monday,06-03-2023,18:30,Sunny,31
+Halmstad,Monday,06-03-2023,19:00,Cloudy,18
+Halmstad,Monday,06-03-2023,19:30,Thunderstorms,16
+Halmstad,Monday,06-03-2023,20:00,Sunny,20
+Halmstad,Monday,06-03-2023,20:30,Rainy,8
+Halmstad,Monday,06-03-2023,21:00,Rainy,8
+Halmstad,Monday,06-03-2023,21:30,Partly Cloudy,17
+Halmstad,Monday,06-03-2023,22:00,Sunny,30
+Halmstad,Monday,06-03-2023,22:30,Rainy,13
+Halmstad,Monday,06-03-2023,23:00,Cloudy,14
+Halmstad,Monday,06-03-2023,23:30,Partly Cloudy,15
+Halmstad,Tuesday,07-03-2023,00:00,Sunny,18
+Halmstad,Tuesday,07-03-2023,00:30,Rainy,7
+Halmstad,Tuesday,07-03-2023,01:00,Partly Cloudy,16
+Halmstad,Tuesday,07-03-2023,01:30,Sunny,21
+Halmstad,Tuesday,07-03-2023,02:00,Partly Cloudy,15
+Halmstad,Tuesday,07-03-2023,02:30,Rainy,4
+Halmstad,Tuesday,07-03-2023,03:00,Thunderstorms,11
+Halmstad,Tuesday,07-03-2023,03:30,Cloudy,14
+Halmstad,Tuesday,07-03-2023,04:00,Cloudy,14
+Halmstad,Tuesday,07-03-2023,04:30,Partly Cloudy,22
+Halmstad,Tuesday,07-03-2023,05:00,Thunderstorms,14
+Halmstad,Tuesday,07-03-2023,05:30,Rainy,14
+Halmstad,Tuesday,07-03-2023,06:00,Partly Cloudy,22
+Halmstad,Tuesday,07-03-2023,06:30,Thunderstorms,17
+Halmstad,Tuesday,07-03-2023,07:00,Sunny,24
+Halmstad,Tuesday,07-03-2023,07:30,Cloudy,20
+Halmstad,Tuesday,07-03-2023,08:00,Cloudy,14
+Halmstad,Tuesday,07-03-2023,08:30,Sunny,25
+Halmstad,Tuesday,07-03-2023,09:00,Sunny,24
+Halmstad,Tuesday,07-03-2023,09:30,Rainy,8
+Halmstad,Tuesday,07-03-2023,10:00,Sunny,28
+Halmstad,Tuesday,07-03-2023,10:30,Thunderstorms,7
+Halmstad,Tuesday,07-03-2023,11:00,Partly Cloudy,16
+Halmstad,Tuesday,07-03-2023,11:30,Cloudy,8
+Halmstad,Tuesday,07-03-2023,12:00,Partly Cloudy,21
+Halmstad,Tuesday,07-03-2023,12:30,Rainy,14
+Halmstad,Tuesday,07-03-2023,13:00,Thunderstorms,11
+Halmstad,Tuesday,07-03-2023,13:30,Thunderstorms,14
+Halmstad,Tuesday,07-03-2023,14:00,Rainy,10
+Halmstad,Tuesday,07-03-2023,14:30,Thunderstorms,16
+Halmstad,Tuesday,07-03-2023,15:00,Cloudy,13
+Halmstad,Tuesday,07-03-2023,15:30,Partly Cloudy,16
+Halmstad,Tuesday,07-03-2023,16:00,Cloudy,19
+Halmstad,Tuesday,07-03-2023,16:30,Sunny,18
+Halmstad,Tuesday,07-03-2023,17:00,Rainy,11
+Halmstad,Tuesday,07-03-2023,17:30,Partly Cloudy,24
+Halmstad,Tuesday,07-03-2023,18:00,Cloudy,13
+Halmstad,Tuesday,07-03-2023,18:30,Partly Cloudy,20
+Halmstad,Tuesday,07-03-2023,19:00,Rainy,15
+Halmstad,Tuesday,07-03-2023,19:30,Sunny,32
+Halmstad,Tuesday,07-03-2023,20:00,Partly Cloudy,24
+Halmstad,Tuesday,07-03-2023,20:30,Partly Cloudy,13
+Halmstad,Tuesday,07-03-2023,21:00,Partly Cloudy,18
+Halmstad,Tuesday,07-03-2023,21:30,Thunderstorms,18
+Halmstad,Tuesday,07-03-2023,22:00,Thunderstorms,19
+Halmstad,Tuesday,07-03-2023,22:30,Rainy,14
+Halmstad,Tuesday,07-03-2023,23:00,Cloudy,12
+Halmstad,Tuesday,07-03-2023,23:30,Partly Cloudy,26
+Halmstad,Wednesday,08-03-2023,00:00,Cloudy,11
+Halmstad,Wednesday,08-03-2023,00:30,Partly Cloudy,24
+Halmstad,Wednesday,08-03-2023,01:00,Thunderstorms,12
+Halmstad,Wednesday,08-03-2023,01:30,Cloudy,19
+Halmstad,Wednesday,08-03-2023,02:00,Cloudy,15
+Halmstad,Wednesday,08-03-2023,02:30,Rainy,12
+Halmstad,Wednesday,08-03-2023,03:00,Thunderstorms,10
+Halmstad,Wednesday,08-03-2023,03:30,Partly Cloudy,20
+Halmstad,Wednesday,08-03-2023,04:00,Rainy,8
+Halmstad,Wednesday,08-03-2023,04:30,Cloudy,16
+Halmstad,Wednesday,08-03-2023,05:00,Partly Cloudy,24
+Halmstad,Wednesday,08-03-2023,05:30,Rainy,10
+Halmstad,Wednesday,08-03-2023,06:00,Partly Cloudy,19
+Halmstad,Wednesday,08-03-2023,06:30,Partly Cloudy,13
+Halmstad,Wednesday,08-03-2023,07:00,Rainy,5
+Halmstad,Wednesday,08-03-2023,07:30,Cloudy,12
+Halmstad,Wednesday,08-03-2023,08:00,Thunderstorms,21
+Halmstad,Wednesday,08-03-2023,08:30,Cloudy,17
+Halmstad,Wednesday,08-03-2023,09:00,Sunny,22
+Halmstad,Wednesday,08-03-2023,09:30,Thunderstorms,9
+Halmstad,Wednesday,08-03-2023,10:00,Thunderstorms,9
+Halmstad,Wednesday,08-03-2023,10:30,Sunny,26
+Halmstad,Wednesday,08-03-2023,11:00,Thunderstorms,11
+Halmstad,Wednesday,08-03-2023,11:30,Thunderstorms,20
+Halmstad,Wednesday,08-03-2023,12:00,Sunny,20
+Halmstad,Wednesday,08-03-2023,12:30,Thunderstorms,13
+Halmstad,Wednesday,08-03-2023,13:00,Sunny,20
+Halmstad,Wednesday,08-03-2023,13:30,Cloudy,23
+Halmstad,Wednesday,08-03-2023,14:00,Thunderstorms,15
+Halmstad,Wednesday,08-03-2023,14:30,Thunderstorms,9
+Halmstad,Wednesday,08-03-2023,15:00,Rainy,6
+Halmstad,Wednesday,08-03-2023,15:30,Thunderstorms,5
+Halmstad,Wednesday,08-03-2023,16:00,Sunny,32
+Halmstad,Wednesday,08-03-2023,16:30,Partly Cloudy,19
+Halmstad,Wednesday,08-03-2023,17:00,Sunny,26
+Halmstad,Wednesday,08-03-2023,17:30,Thunderstorms,12
+Halmstad,Wednesday,08-03-2023,18:00,Sunny,20
+Halmstad,Wednesday,08-03-2023,18:30,Sunny,28
+Halmstad,Wednesday,08-03-2023,19:00,Cloudy,19
+Halmstad,Wednesday,08-03-2023,19:30,Cloudy,15
+Halmstad,Wednesday,08-03-2023,20:00,Thunderstorms,15
+Halmstad,Wednesday,08-03-2023,20:30,Thunderstorms,7
+Halmstad,Wednesday,08-03-2023,21:00,Rainy,14
+Halmstad,Wednesday,08-03-2023,21:30,Partly Cloudy,16
+Halmstad,Wednesday,08-03-2023,22:00,Rainy,13
+Halmstad,Wednesday,08-03-2023,22:30,Thunderstorms,14
+Halmstad,Wednesday,08-03-2023,23:00,Cloudy,10
+Halmstad,Wednesday,08-03-2023,23:30,Sunny,19
+Halmstad,Thursday,09-03-2023,00:00,Rainy,8
+Halmstad,Thursday,09-03-2023,00:30,Thunderstorms,13
+Halmstad,Thursday,09-03-2023,01:00,Sunny,23
+Halmstad,Thursday,09-03-2023,01:30,Thunderstorms,9
+Halmstad,Thursday,09-03-2023,02:00,Cloudy,9
+Halmstad,Thursday,09-03-2023,02:30,Thunderstorms,12
+Halmstad,Thursday,09-03-2023,03:00,Thunderstorms,9
+Halmstad,Thursday,09-03-2023,03:30,Partly Cloudy,24
+Halmstad,Thursday,09-03-2023,04:00,Cloudy,18
+Halmstad,Thursday,09-03-2023,04:30,Sunny,19
+Halmstad,Thursday,09-03-2023,05:00,Cloudy,18
+Halmstad,Thursday,09-03-2023,05:30,Sunny,21
+Halmstad,Thursday,09-03-2023,06:00,Sunny,20
+Halmstad,Thursday,09-03-2023,06:30,Cloudy,13
+Halmstad,Thursday,09-03-2023,07:00,Cloudy,16
+Halmstad,Thursday,09-03-2023,07:30,Partly Cloudy,19
+Halmstad,Thursday,09-03-2023,08:00,Partly Cloudy,19
+Halmstad,Thursday,09-03-2023,08:30,Rainy,9
+Halmstad,Thursday,09-03-2023,09:00,Thunderstorms,18
+Halmstad,Thursday,09-03-2023,09:30,Cloudy,8
+Halmstad,Thursday,09-03-2023,10:00,Thunderstorms,9
+Halmstad,Thursday,09-03-2023,10:30,Sunny,28
+Halmstad,Thursday,09-03-2023,11:00,Sunny,22
+Halmstad,Thursday,09-03-2023,11:30,Thunderstorms,17
+Halmstad,Thursday,09-03-2023,12:00,Sunny,29
+Halmstad,Thursday,09-03-2023,12:30,Partly Cloudy,23
+Halmstad,Thursday,09-03-2023,13:00,Thunderstorms,17
+Halmstad,Thursday,09-03-2023,13:30,Partly Cloudy,23
+Halmstad,Thursday,09-03-2023,14:00,Rainy,15
+Halmstad,Thursday,09-03-2023,14:30,Rainy,13
+Halmstad,Thursday,09-03-2023,15:00,Thunderstorms,13
+Halmstad,Thursday,09-03-2023,15:30,Cloudy,13
+Halmstad,Thursday,09-03-2023,16:00,Thunderstorms,13
+Halmstad,Thursday,09-03-2023,16:30,Rainy,7
+Halmstad,Thursday,09-03-2023,17:00,Rainy,8
+Halmstad,Thursday,09-03-2023,17:30,Cloudy,15
+Halmstad,Thursday,09-03-2023,18:00,Sunny,23
+Halmstad,Thursday,09-03-2023,18:30,Cloudy,19
+Halmstad,Thursday,09-03-2023,19:00,Rainy,8
+Halmstad,Thursday,09-03-2023,19:30,Sunny,26
+Halmstad,Thursday,09-03-2023,20:00,Sunny,33
+Halmstad,Thursday,09-03-2023,20:30,Partly Cloudy,19
+Halmstad,Thursday,09-03-2023,21:00,Sunny,21
+Halmstad,Thursday,09-03-2023,21:30,Thunderstorms,12
+Halmstad,Thursday,09-03-2023,22:00,Sunny,23
+Halmstad,Thursday,09-03-2023,22:30,Cloudy,8
+Halmstad,Thursday,09-03-2023,23:00,Partly Cloudy,16
+Halmstad,Thursday,09-03-2023,23:30,Partly Cloudy,16
+Halmstad,Friday,10-03-2023,00:00,Sunny,26
+Halmstad,Friday,10-03-2023,00:30,Partly Cloudy,26
+Halmstad,Friday,10-03-2023,01:00,Thunderstorms,11
+Halmstad,Friday,10-03-2023,01:30,Cloudy,14
+Halmstad,Friday,10-03-2023,02:00,Partly Cloudy,24
+Halmstad,Friday,10-03-2023,02:30,Cloudy,11
+Halmstad,Friday,10-03-2023,03:00,Thunderstorms,7
+Halmstad,Friday,10-03-2023,03:30,Partly Cloudy,21
+Halmstad,Friday,10-03-2023,04:00,Cloudy,16
+Halmstad,Friday,10-03-2023,04:30,Rainy,3
+Halmstad,Friday,10-03-2023,05:00,Partly Cloudy,25
+Halmstad,Friday,10-03-2023,05:30,Sunny,22
+Halmstad,Friday,10-03-2023,06:00,Rainy,11
+Halmstad,Friday,10-03-2023,06:30,Thunderstorms,9
+Halmstad,Friday,10-03-2023,07:00,Partly Cloudy,16
+Halmstad,Friday,10-03-2023,07:30,Cloudy,12
+Halmstad,Friday,10-03-2023,08:00,Thunderstorms,16
+Halmstad,Friday,10-03-2023,08:30,Thunderstorms,6
+Halmstad,Friday,10-03-2023,09:00,Thunderstorms,12
+Halmstad,Friday,10-03-2023,09:30,Thunderstorms,16
+Halmstad,Friday,10-03-2023,10:00,Rainy,12
+Halmstad,Friday,10-03-2023,10:30,Partly Cloudy,25
+Halmstad,Friday,10-03-2023,11:00,Partly Cloudy,18
+Halmstad,Friday,10-03-2023,11:30,Partly Cloudy,19
+Halmstad,Friday,10-03-2023,12:00,Cloudy,9
+Halmstad,Friday,10-03-2023,12:30,Cloudy,13
+Halmstad,Friday,10-03-2023,13:00,Partly Cloudy,19
+Halmstad,Friday,10-03-2023,13:30,Sunny,19
+Halmstad,Friday,10-03-2023,14:00,Partly Cloudy,20
+Halmstad,Friday,10-03-2023,14:30,Rainy,13
+Halmstad,Friday,10-03-2023,15:00,Cloudy,14
+Halmstad,Friday,10-03-2023,15:30,Rainy,10
+Halmstad,Friday,10-03-2023,16:00,Rainy,14
+Halmstad,Friday,10-03-2023,16:30,Sunny,25
+Halmstad,Friday,10-03-2023,17:00,Thunderstorms,13
+Halmstad,Friday,10-03-2023,17:30,Sunny,21
+Halmstad,Friday,10-03-2023,18:00,Rainy,10
+Halmstad,Friday,10-03-2023,18:30,Sunny,28
+Halmstad,Friday,10-03-2023,19:00,Cloudy,17
+Halmstad,Friday,10-03-2023,19:30,Sunny,25
+Halmstad,Friday,10-03-2023,20:00,Partly Cloudy,24
+Halmstad,Friday,10-03-2023,20:30,Rainy,9
+Halmstad,Friday,10-03-2023,21:00,Rainy,6
+Halmstad,Friday,10-03-2023,21:30,Partly Cloudy,16
+Halmstad,Friday,10-03-2023,22:00,Sunny,25
+Halmstad,Friday,10-03-2023,22:30,Partly Cloudy,21
+Halmstad,Friday,10-03-2023,23:00,Sunny,27
+Halmstad,Friday,10-03-2023,23:30,Cloudy,14
